@@ -1,0 +1,13 @@
+orange      -> A
+lemon       -> N
+peach       -> S
+mandarine   -> W
+guava       -> E
+banana      -> R
+mango       -> I
+apple       -> S
+
+raisin      -> e
+               n?
+cherry      -> d
+grape       -> s

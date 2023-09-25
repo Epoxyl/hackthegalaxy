@@ -1,0 +1,9316 @@
+[
+  {
+    "gravel": [
+      [
+        "grave",
+        "l"
+      ]
+    ]
+  },
+  {
+    "matins": [
+      [
+        "satins",
+        "m"
+      ]
+    ],
+    "coffin": [
+      [
+        "boffin",
+        "c"
+      ]
+    ],
+    "drippy": [
+      [
+        "grippy",
+        "d"
+      ]
+    ],
+    "riddle": [
+      [
+        "diddle",
+        "r"
+      ],
+      [
+        "fiddle",
+        "r"
+      ],
+      [
+        "middle",
+        "r"
+      ],
+      [
+        "piddle",
+        "r"
+      ]
+    ],
+    "drench": [
+      [
+        "french",
+        "d"
+      ],
+      [
+        "trench",
+        "d"
+      ],
+      [
+        "wrench",
+        "d"
+      ]
+    ],
+    "derate": [
+      [
+        "aerate",
+        "d"
+      ],
+      [
+        "berate",
+        "d"
+      ],
+      [
+        "cerate",
+        "d"
+      ]
+    ],
+    "purine": [
+      [
+        "murine",
+        "p"
+      ]
+    ],
+    "mental": [
+      [
+        "cental",
+        "m"
+      ],
+      [
+        "dental",
+        "m"
+      ],
+      [
+        "rental",
+        "m"
+      ]
+    ],
+    "cavern": [
+      [
+        "tavern",
+        "c"
+      ]
+    ],
+    "glitch": [
+      [
+        "flitch",
+        "g"
+      ]
+    ],
+    "sorrow": [
+      [
+        "borrow",
+        "s"
+      ],
+      [
+        "morrow",
+        "s"
+      ]
+    ],
+    "hustle": [
+      [
+        "bustle",
+        "h"
+      ],
+      [
+        "justle",
+        "h"
+      ],
+      [
+        "rustle",
+        "h"
+      ]
+    ],
+    "vanish": [
+      [
+        "banish",
+        "v"
+      ],
+      [
+        "danish",
+        "v"
+      ]
+    ],
+    "giggle": [
+      [
+        "higgle",
+        "g"
+      ],
+      [
+        "jiggle",
+        "g"
+      ],
+      [
+        "niggle",
+        "g"
+      ],
+      [
+        "wiggle",
+        "g"
+      ]
+    ],
+    "dabble": [
+      [
+        "babble",
+        "d"
+      ],
+      [
+        "gabble",
+        "d"
+      ],
+      [
+        "rabble",
+        "d"
+      ]
+    ],
+    "cornet": [
+      [
+        "hornet",
+        "c"
+      ]
+    ],
+    "kennel": [
+      [
+        "fennel",
+        "k"
+      ]
+    ],
+    "juggle": [
+      [
+        "guggle",
+        "j"
+      ],
+      [
+        "muggle",
+        "j"
+      ]
+    ],
+    "cleave": [
+      [
+        "sleave",
+        "c"
+      ]
+    ],
+    "barley": [
+      [
+        "parley",
+        "b"
+      ]
+    ],
+    "billet": [
+      [
+        "fillet",
+        "b"
+      ],
+      [
+        "millet",
+        "b"
+      ],
+      [
+        "rillet",
+        "b"
+      ],
+      [
+        "willet",
+        "b"
+      ]
+    ],
+    "hearth": [
+      [
+        "dearth",
+        "h"
+      ]
+    ],
+    "secede": [
+      [
+        "recede",
+        "s"
+      ]
+    ],
+    "drudge": [
+      [
+        "grudge",
+        "d"
+      ],
+      [
+        "trudge",
+        "d"
+      ]
+    ],
+    "grease": [
+      [
+        "crease",
+        "g"
+      ],
+      [
+        "urease",
+        "g"
+      ]
+    ],
+    "bumble": [
+      [
+        "fumble",
+        "b"
+      ],
+      [
+        "humble",
+        "b"
+      ],
+      [
+        "jumble",
+        "b"
+      ],
+      [
+        "mumble",
+        "b"
+      ],
+      [
+        "rumble",
+        "b"
+      ],
+      [
+        "tumble",
+        "b"
+      ]
+    ],
+    "grater": [
+      [
+        "crater",
+        "g"
+      ],
+      [
+        "frater",
+        "g"
+      ],
+      [
+        "prater",
+        "g"
+      ]
+    ],
+    "blocky": [
+      [
+        "flocky",
+        "b"
+      ]
+    ],
+    "sailor": [
+      [
+        "bailor",
+        "s"
+      ],
+      [
+        "tailor",
+        "s"
+      ]
+    ],
+    "vortex": [
+      [
+        "cortex",
+        "v"
+      ]
+    ],
+    "poncho": [
+      [
+        "honcho",
+        "p"
+      ]
+    ],
+    "puddly": [
+      [
+        "cuddly",
+        "p"
+      ]
+    ],
+    "bobble": [
+      [
+        "cobble",
+        "b"
+      ],
+      [
+        "gobble",
+        "b"
+      ],
+      [
+        "hobble",
+        "b"
+      ],
+      [
+        "nobble",
+        "b"
+      ],
+      [
+        "wobble",
+        "b"
+      ]
+    ],
+    "sombre": [
+      [
+        "hombre",
+        "s"
+      ]
+    ],
+    "hermit": [
+      [
+        "permit",
+        "h"
+      ]
+    ],
+    "sickle": [
+      [
+        "fickle",
+        "s"
+      ],
+      [
+        "nickle",
+        "s"
+      ],
+      [
+        "pickle",
+        "s"
+      ],
+      [
+        "tickle",
+        "s"
+      ]
+    ],
+    "cookie": [
+      [
+        "bookie",
+        "c"
+      ],
+      [
+        "nookie",
+        "c"
+      ],
+      [
+        "rookie",
+        "c"
+      ]
+    ],
+    "beaver": [
+      [
+        "heaver",
+        "b"
+      ],
+      [
+        "leaver",
+        "b"
+      ],
+      [
+        "reaver",
+        "b"
+      ],
+      [
+        "weaver",
+        "b"
+      ]
+    ],
+    "clench": [
+      [
+        "blench",
+        "c"
+      ]
+    ],
+    "fumble": [
+      [
+        "bumble",
+        "f"
+      ],
+      [
+        "humble",
+        "f"
+      ],
+      [
+        "jumble",
+        "f"
+      ],
+      [
+        "mumble",
+        "f"
+      ],
+      [
+        "rumble",
+        "f"
+      ],
+      [
+        "tumble",
+        "f"
+      ]
+    ],
+    "detain": [
+      [
+        "retain",
+        "d"
+      ]
+    ],
+    "gallon": [
+      [
+        "ballon",
+        "g"
+      ]
+    ],
+    "nought": [
+      [
+        "bought",
+        "n"
+      ],
+      [
+        "fought",
+        "n"
+      ],
+      [
+        "sought",
+        "n"
+      ]
+    ],
+    "umpire": [
+      [
+        "empire",
+        "u"
+      ]
+    ],
+    "onward": [
+      [
+        "inward",
+        "o"
+      ]
+    ],
+    "hectic": [
+      [
+        "pectic",
+        "h"
+      ]
+    ],
+    "widget": [
+      [
+        "fidget",
+        "w"
+      ],
+      [
+        "midget",
+        "w"
+      ]
+    ],
+    "aerate": [
+      [
+        "berate",
+        "a"
+      ],
+      [
+        "cerate",
+        "a"
+      ]
+    ],
+    "crater": [
+      [
+        "frater",
+        "c"
+      ],
+      [
+        "grater",
+        "c"
+      ],
+      [
+        "prater",
+        "c"
+      ]
+    ],
+    "podium": [
+      [
+        "sodium",
+        "p"
+      ]
+    ],
+    "glamor": [
+      [
+        "clamor",
+        "g"
+      ]
+    ],
+    "pocket": [
+      [
+        "docket",
+        "p"
+      ],
+      [
+        "locket",
+        "p"
+      ],
+      [
+        "rocket",
+        "p"
+      ],
+      [
+        "socket",
+        "p"
+      ]
+    ],
+    "walkie": [
+      [
+        "talkie",
+        "w"
+      ]
+    ],
+    "senile": [
+      [
+        "penile",
+        "s"
+      ]
+    ],
+    "reject": [
+      [
+        "deject",
+        "r"
+      ]
+    ],
+    "zither": [
+      [
+        "cither",
+        "z"
+      ],
+      [
+        "dither",
+        "z"
+      ],
+      [
+        "either",
+        "z"
+      ],
+      [
+        "hither",
+        "z"
+      ],
+      [
+        "lither",
+        "z"
+      ],
+      [
+        "mither",
+        "z"
+      ],
+      [
+        "tither",
+        "z"
+      ],
+      [
+        "wither",
+        "z"
+      ]
+    ],
+    "millet": [
+      [
+        "billet",
+        "m"
+      ],
+      [
+        "fillet",
+        "m"
+      ],
+      [
+        "rillet",
+        "m"
+      ],
+      [
+        "willet",
+        "m"
+      ]
+    ],
+    "cinder": [
+      [
+        "binder",
+        "c"
+      ],
+      [
+        "finder",
+        "c"
+      ],
+      [
+        "hinder",
+        "c"
+      ],
+      [
+        "kinder",
+        "c"
+      ],
+      [
+        "minder",
+        "c"
+      ],
+      [
+        "tinder",
+        "c"
+      ],
+      [
+        "winder",
+        "c"
+      ]
+    ],
+    "waggle": [
+      [
+        "gaggle",
+        "w"
+      ],
+      [
+        "haggle",
+        "w"
+      ]
+    ],
+    "barrel": [
+      [
+        "carrel",
+        "b"
+      ]
+    ],
+    "joggle": [
+      [
+        "boggle",
+        "j"
+      ],
+      [
+        "goggle",
+        "j"
+      ],
+      [
+        "toggle",
+        "j"
+      ]
+    ],
+    "revere": [
+      [
+        "severe",
+        "r"
+      ]
+    ],
+    "bubble": [
+      [
+        "nubble",
+        "b"
+      ],
+      [
+        "rubble",
+        "b"
+      ]
+    ],
+    "muddle": [
+      [
+        "buddle",
+        "m"
+      ],
+      [
+        "cuddle",
+        "m"
+      ],
+      [
+        "fuddle",
+        "m"
+      ],
+      [
+        "guddle",
+        "m"
+      ],
+      [
+        "huddle",
+        "m"
+      ],
+      [
+        "puddle",
+        "m"
+      ],
+      [
+        "ruddle",
+        "m"
+      ]
+    ],
+    "whinny": [
+      [
+        "shinny",
+        "w"
+      ]
+    ],
+    "hasten": [
+      [
+        "fasten",
+        "h"
+      ]
+    ],
+    "tassel": [
+      [
+        "passel",
+        "t"
+      ]
+    ],
+    "inward": [
+      [
+        "onward",
+        "i"
+      ]
+    ],
+    "hasn't": [
+      [
+        "wasn't",
+        "h"
+      ]
+    ],
+    "priest": [
+      [
+        "driest",
+        "p"
+      ]
+    ],
+    "finery": [
+      [
+        "pinery",
+        "f"
+      ],
+      [
+        "vinery",
+        "f"
+      ],
+      [
+        "winery",
+        "f"
+      ]
+    ],
+    "pierce": [
+      [
+        "fierce",
+        "p"
+      ],
+      [
+        "tierce",
+        "p"
+      ]
+    ],
+    "galley": [
+      [
+        "valley",
+        "g"
+      ]
+    ],
+    "nodule": [
+      [
+        "module",
+        "n"
+      ]
+    ],
+    "nestle": [
+      [
+        "pestle",
+        "n"
+      ]
+    ],
+    "numbly": [
+      [
+        "dumbly",
+        "n"
+      ],
+      [
+        "humbly",
+        "n"
+      ],
+      [
+        "mumbly",
+        "n"
+      ],
+      [
+        "rumbly",
+        "n"
+      ]
+    ],
+    "tangle": [
+      [
+        "bangle",
+        "t"
+      ],
+      [
+        "dangle",
+        "t"
+      ],
+      [
+        "jangle",
+        "t"
+      ],
+      [
+        "mangle",
+        "t"
+      ],
+      [
+        "wangle",
+        "t"
+      ]
+    ],
+    "cation": [
+      [
+        "nation",
+        "c"
+      ],
+      [
+        "ration",
+        "c"
+      ]
+    ],
+    "swirly": [
+      [
+        "twirly",
+        "s"
+      ]
+    ],
+    "rubble": [
+      [
+        "bubble",
+        "r"
+      ],
+      [
+        "nubble",
+        "r"
+      ]
+    ],
+    "harden": [
+      [
+        "garden",
+        "h"
+      ],
+      [
+        "warden",
+        "h"
+      ]
+    ],
+    "castor": [
+      [
+        "pastor",
+        "c"
+      ]
+    ],
+    "render": [
+      [
+        "bender",
+        "r"
+      ],
+      [
+        "fender",
+        "r"
+      ],
+      [
+        "gender",
+        "r"
+      ],
+      [
+        "lender",
+        "r"
+      ],
+      [
+        "mender",
+        "r"
+      ],
+      [
+        "sender",
+        "r"
+      ],
+      [
+        "tender",
+        "r"
+      ]
+    ],
+    "bitten": [
+      [
+        "kitten",
+        "b"
+      ],
+      [
+        "mitten",
+        "b"
+      ]
+    ],
+    "nuzzle": [
+      [
+        "guzzle",
+        "n"
+      ],
+      [
+        "muzzle",
+        "n"
+      ],
+      [
+        "puzzle",
+        "n"
+      ]
+    ],
+    "sizzle": [
+      [
+        "fizzle",
+        "s"
+      ],
+      [
+        "mizzle",
+        "s"
+      ]
+    ],
+    "grumpy": [
+      [
+        "frumpy",
+        "g"
+      ]
+    ],
+    "cymbal": [
+      [
+        "tymbal",
+        "c"
+      ]
+    ],
+    "cranny": [
+      [
+        "branny",
+        "c"
+      ],
+      [
+        "granny",
+        "c"
+      ]
+    ],
+    "turtle": [
+      [
+        "hurtle",
+        "t"
+      ]
+    ],
+    "beacon": [
+      [
+        "deacon",
+        "b"
+      ]
+    ],
+    "graven": [
+      [
+        "craven",
+        "g"
+      ]
+    ],
+    "instep": [
+      [
+        "unstep",
+        "i"
+      ]
+    ],
+    "notion": [
+      [
+        "lotion",
+        "n"
+      ],
+      [
+        "motion",
+        "n"
+      ],
+      [
+        "potion",
+        "n"
+      ]
+    ],
+    "victor": [
+      [
+        "lictor",
+        "v"
+      ]
+    ],
+    "creamy": [
+      [
+        "dreamy",
+        "c"
+      ]
+    ],
+    "topple": [
+      [
+        "hopple",
+        "t"
+      ],
+      [
+        "popple",
+        "t"
+      ]
+    ],
+    "popish": [
+      [
+        "mopish",
+        "p"
+      ]
+    ],
+    "wallow": [
+      [
+        "callow",
+        "w"
+      ],
+      [
+        "fallow",
+        "w"
+      ],
+      [
+        "hallow",
+        "w"
+      ],
+      [
+        "mallow",
+        "w"
+      ],
+      [
+        "sallow",
+        "w"
+      ],
+      [
+        "tallow",
+        "w"
+      ]
+    ],
+    "banish": [
+      [
+        "danish",
+        "b"
+      ],
+      [
+        "vanish",
+        "b"
+      ]
+    ],
+    "rocket": [
+      [
+        "docket",
+        "r"
+      ],
+      [
+        "locket",
+        "r"
+      ],
+      [
+        "pocket",
+        "r"
+      ],
+      [
+        "socket",
+        "r"
+      ]
+    ],
+    "rustle": [
+      [
+        "bustle",
+        "r"
+      ],
+      [
+        "hustle",
+        "r"
+      ],
+      [
+        "justle",
+        "r"
+      ]
+    ],
+    "tunnel": [
+      [
+        "funnel",
+        "t"
+      ],
+      [
+        "gunnel",
+        "t"
+      ],
+      [
+        "runnel",
+        "t"
+      ]
+    ],
+    "ramble": [
+      [
+        "gamble",
+        "r"
+      ],
+      [
+        "wamble",
+        "r"
+      ]
+    ],
+    "bundle": [
+      [
+        "rundle",
+        "b"
+      ]
+    ],
+    "cuddle": [
+      [
+        "buddle",
+        "c"
+      ],
+      [
+        "fuddle",
+        "c"
+      ],
+      [
+        "guddle",
+        "c"
+      ],
+      [
+        "huddle",
+        "c"
+      ],
+      [
+        "muddle",
+        "c"
+      ],
+      [
+        "puddle",
+        "c"
+      ],
+      [
+        "ruddle",
+        "c"
+      ]
+    ],
+    "pallet": [
+      [
+        "ballet",
+        "p"
+      ],
+      [
+        "mallet",
+        "p"
+      ],
+      [
+        "sallet",
+        "p"
+      ],
+      [
+        "wallet",
+        "p"
+      ]
+    ],
+    "pinion": [
+      [
+        "minion",
+        "p"
+      ]
+    ],
+    "repute": [
+      [
+        "depute",
+        "r"
+      ]
+    ],
+    "lizard": [
+      [
+        "vizard",
+        "l"
+      ],
+      [
+        "wizard",
+        "l"
+      ]
+    ],
+    "though": [
+      [
+        "chough",
+        "t"
+      ]
+    ],
+    "hidden": [
+      [
+        "bidden",
+        "h"
+      ],
+      [
+        "midden",
+        "h"
+      ],
+      [
+        "ridden",
+        "h"
+      ]
+    ],
+    "gullet": [
+      [
+        "bullet",
+        "g"
+      ],
+      [
+        "cullet",
+        "g"
+      ],
+      [
+        "mullet",
+        "g"
+      ],
+      [
+        "pullet",
+        "g"
+      ]
+    ],
+    "tennis": [
+      [
+        "pennis",
+        "t"
+      ]
+    ],
+    "single": [
+      [
+        "bingle",
+        "s"
+      ],
+      [
+        "dingle",
+        "s"
+      ],
+      [
+        "jingle",
+        "s"
+      ],
+      [
+        "mingle",
+        "s"
+      ],
+      [
+        "tingle",
+        "s"
+      ]
+    ],
+    "vestal": [
+      [
+        "festal",
+        "v"
+      ]
+    ],
+    "wreath": [
+      [
+        "breath",
+        "w"
+      ]
+    ],
+    "rescue": [
+      [
+        "fescue",
+        "r"
+      ]
+    ],
+    "riffle": [
+      [
+        "piffle",
+        "r"
+      ]
+    ],
+    "gantry": [
+      [
+        "pantry",
+        "g"
+      ]
+    ],
+    "modify": [
+      [
+        "codify",
+        "m"
+      ]
+    ],
+    "ticket": [
+      [
+        "picket",
+        "t"
+      ],
+      [
+        "wicket",
+        "t"
+      ]
+    ],
+    "sacred": [
+      [
+        "nacred",
+        "s"
+      ]
+    ],
+    "dimple": [
+      [
+        "pimple",
+        "d"
+      ],
+      [
+        "rimple",
+        "d"
+      ],
+      [
+        "simple",
+        "d"
+      ],
+      [
+        "wimple",
+        "d"
+      ]
+    ],
+    "noodle": [
+      [
+        "boodle",
+        "n"
+      ],
+      [
+        "doodle",
+        "n"
+      ],
+      [
+        "poodle",
+        "n"
+      ]
+    ],
+    "cutset": [
+      [
+        "outset",
+        "c"
+      ]
+    ],
+    "toward": [
+      [
+        "coward",
+        "t"
+      ]
+    ],
+    "plight": [
+      [
+        "alight",
+        "p"
+      ],
+      [
+        "blight",
+        "p"
+      ],
+      [
+        "flight",
+        "p"
+      ],
+      [
+        "slight",
+        "p"
+      ]
+    ],
+    "tackle": [
+      [
+        "cackle",
+        "t"
+      ],
+      [
+        "hackle",
+        "t"
+      ],
+      [
+        "mackle",
+        "t"
+      ]
+    ],
+    "patchy": [
+      [
+        "catchy",
+        "p"
+      ]
+    ],
+    "flurry": [
+      [
+        "blurry",
+        "f"
+      ],
+      [
+        "slurry",
+        "f"
+      ]
+    ],
+    "gender": [
+      [
+        "bender",
+        "g"
+      ],
+      [
+        "fender",
+        "g"
+      ],
+      [
+        "lender",
+        "g"
+      ],
+      [
+        "mender",
+        "g"
+      ],
+      [
+        "render",
+        "g"
+      ],
+      [
+        "sender",
+        "g"
+      ],
+      [
+        "tender",
+        "g"
+      ]
+    ],
+    "laurel": [
+      [
+        "saurel",
+        "l"
+      ]
+    ],
+    "dagger": [
+      [
+        "bagger",
+        "d"
+      ],
+      [
+        "gagger",
+        "d"
+      ],
+      [
+        "lagger",
+        "d"
+      ],
+      [
+        "nagger",
+        "d"
+      ],
+      [
+        "tagger",
+        "d"
+      ]
+    ],
+    "forget": [
+      [
+        "gorget",
+        "f"
+      ]
+    ],
+    "madman": [
+      [
+        "badman",
+        "m"
+      ]
+    ],
+    "fringe": [
+      [
+        "cringe",
+        "f"
+      ]
+    ],
+    "mellow": [
+      [
+        "bellow",
+        "m"
+      ],
+      [
+        "fellow",
+        "m"
+      ],
+      [
+        "yellow",
+        "m"
+      ]
+    ],
+    "timber": [
+      [
+        "limber",
+        "t"
+      ]
+    ],
+    "barter": [
+      [
+        "carter",
+        "b"
+      ],
+      [
+        "darter",
+        "b"
+      ],
+      [
+        "garter",
+        "b"
+      ],
+      [
+        "tarter",
+        "b"
+      ]
+    ],
+    "astray": [
+      [
+        "estray",
+        "a"
+      ]
+    ],
+    "arsine": [
+      [
+        "ursine",
+        "a"
+      ]
+    ],
+    "bigamy": [
+      [
+        "digamy",
+        "b"
+      ]
+    ],
+    "fillet": [
+      [
+        "billet",
+        "f"
+      ],
+      [
+        "millet",
+        "f"
+      ],
+      [
+        "rillet",
+        "f"
+      ],
+      [
+        "willet",
+        "f"
+      ]
+    ],
+    "fecund": [
+      [
+        "secund",
+        "f"
+      ]
+    ],
+    "votary": [
+      [
+        "notary",
+        "v"
+      ],
+      [
+        "rotary",
+        "v"
+      ]
+    ],
+    "feline": [
+      [
+        "reline",
+        "f"
+      ]
+    ],
+    "latent": [
+      [
+        "patent",
+        "l"
+      ]
+    ],
+    "borrow": [
+      [
+        "morrow",
+        "b"
+      ],
+      [
+        "sorrow",
+        "b"
+      ]
+    ],
+    "garter": [
+      [
+        "barter",
+        "g"
+      ],
+      [
+        "carter",
+        "g"
+      ],
+      [
+        "darter",
+        "g"
+      ],
+      [
+        "tarter",
+        "g"
+      ]
+    ],
+    "gabble": [
+      [
+        "babble",
+        "g"
+      ],
+      [
+        "dabble",
+        "g"
+      ],
+      [
+        "rabble",
+        "g"
+      ]
+    ],
+    "wallet": [
+      [
+        "ballet",
+        "w"
+      ],
+      [
+        "mallet",
+        "w"
+      ],
+      [
+        "pallet",
+        "w"
+      ],
+      [
+        "sallet",
+        "w"
+      ]
+    ],
+    "impale": [
+      [
+        "empale",
+        "i"
+      ]
+    ],
+    "gyrate": [
+      [
+        "lyrate",
+        "g"
+      ]
+    ],
+    "finger": [
+      [
+        "binger",
+        "f"
+      ],
+      [
+        "ginger",
+        "f"
+      ],
+      [
+        "linger",
+        "f"
+      ],
+      [
+        "ringer",
+        "f"
+      ],
+      [
+        "singer",
+        "f"
+      ],
+      [
+        "winger",
+        "f"
+      ],
+      [
+        "zinger",
+        "f"
+      ]
+    ],
+    "wicket": [
+      [
+        "picket",
+        "w"
+      ],
+      [
+        "ticket",
+        "w"
+      ]
+    ],
+    "apical": [
+      [
+        "epical",
+        "a"
+      ]
+    ],
+    "fidget": [
+      [
+        "midget",
+        "f"
+      ],
+      [
+        "widget",
+        "f"
+      ]
+    ],
+    "liable": [
+      [
+        "viable",
+        "l"
+      ]
+    ],
+    "garden": [
+      [
+        "harden",
+        "g"
+      ],
+      [
+        "warden",
+        "g"
+      ]
+    ],
+    "hobble": [
+      [
+        "bobble",
+        "h"
+      ],
+      [
+        "cobble",
+        "h"
+      ],
+      [
+        "gobble",
+        "h"
+      ],
+      [
+        "nobble",
+        "h"
+      ],
+      [
+        "wobble",
+        "h"
+      ]
+    ],
+    "fledge": [
+      [
+        "pledge",
+        "f"
+      ],
+      [
+        "sledge",
+        "f"
+      ]
+    ],
+    "fetter": [
+      [
+        "better",
+        "f"
+      ],
+      [
+        "getter",
+        "f"
+      ],
+      [
+        "letter",
+        "f"
+      ],
+      [
+        "netter",
+        "f"
+      ],
+      [
+        "petter",
+        "f"
+      ],
+      [
+        "setter",
+        "f"
+      ],
+      [
+        "tetter",
+        "f"
+      ],
+      [
+        "wetter",
+        "f"
+      ]
+    ],
+    "target": [
+      [
+        "garget",
+        "t"
+      ],
+      [
+        "parget",
+        "t"
+      ]
+    ],
+    "guzzle": [
+      [
+        "muzzle",
+        "g"
+      ],
+      [
+        "nuzzle",
+        "g"
+      ],
+      [
+        "puzzle",
+        "g"
+      ]
+    ],
+    "mutton": [
+      [
+        "button",
+        "m"
+      ]
+    ],
+    "puzzle": [
+      [
+        "guzzle",
+        "p"
+      ],
+      [
+        "muzzle",
+        "p"
+      ],
+      [
+        "nuzzle",
+        "p"
+      ]
+    ],
+    "parish": [
+      [
+        "garish",
+        "p"
+      ],
+      [
+        "marish",
+        "p"
+      ]
+    ],
+    "ribbon": [
+      [
+        "gibbon",
+        "r"
+      ]
+    ],
+    "kosher": [
+      [
+        "cosher",
+        "k"
+      ],
+      [
+        "josher",
+        "k"
+      ],
+      [
+        "nosher",
+        "k"
+      ],
+      [
+        "posher",
+        "k"
+      ]
+    ],
+    "sentry": [
+      [
+        "gentry",
+        "s"
+      ]
+    ],
+    "lappet": [
+      [
+        "tappet",
+        "l"
+      ]
+    ],
+    "object": [
+      [
+        "abject",
+        "o"
+      ]
+    ],
+    "marble": [
+      [
+        "garble",
+        "m"
+      ],
+      [
+        "warble",
+        "m"
+      ]
+    ],
+    "hornet": [
+      [
+        "cornet",
+        "h"
+      ]
+    ],
+    "sawyer": [
+      [
+        "lawyer",
+        "s"
+      ]
+    ],
+    "jacket": [
+      [
+        "packet",
+        "j"
+      ],
+      [
+        "racket",
+        "j"
+      ],
+      [
+        "tacket",
+        "j"
+      ]
+    ],
+    "rudder": [
+      [
+        "budder",
+        "r"
+      ],
+      [
+        "judder",
+        "r"
+      ]
+    ],
+    "preach": [
+      [
+        "breach",
+        "p"
+      ]
+    ],
+    "mighty": [
+      [
+        "eighty",
+        "m"
+      ],
+      [
+        "nighty",
+        "m"
+      ]
+    ],
+    "buckle": [
+      [
+        "suckle",
+        "b"
+      ]
+    ],
+    "dangle": [
+      [
+        "bangle",
+        "d"
+      ],
+      [
+        "jangle",
+        "d"
+      ],
+      [
+        "mangle",
+        "d"
+      ],
+      [
+        "tangle",
+        "d"
+      ],
+      [
+        "wangle",
+        "d"
+      ]
+    ],
+    "fescue": [
+      [
+        "rescue",
+        "f"
+      ]
+    ],
+    "gentry": [
+      [
+        "sentry",
+        "g"
+      ]
+    ],
+    "bookie": [
+      [
+        "cookie",
+        "b"
+      ],
+      [
+        "nookie",
+        "b"
+      ],
+      [
+        "rookie",
+        "b"
+      ]
+    ],
+    "portal": [
+      [
+        "aortal",
+        "p"
+      ],
+      [
+        "mortal",
+        "p"
+      ]
+    ],
+    "doodle": [
+      [
+        "boodle",
+        "d"
+      ],
+      [
+        "noodle",
+        "d"
+      ],
+      [
+        "poodle",
+        "d"
+      ]
+    ],
+    "travel": [
+      [
+        "gravel",
+        "t"
+      ]
+    ],
+    "trudge": [
+      [
+        "drudge",
+        "t"
+      ],
+      [
+        "grudge",
+        "t"
+      ]
+    ],
+    "pander": [
+      [
+        "bander",
+        "p"
+      ],
+      [
+        "dander",
+        "p"
+      ],
+      [
+        "gander",
+        "p"
+      ],
+      [
+        "lander",
+        "p"
+      ],
+      [
+        "sander",
+        "p"
+      ],
+      [
+        "wander",
+        "p"
+      ]
+    ],
+    "mystic": [
+      [
+        "cystic",
+        "m"
+      ]
+    ],
+    "module": [
+      [
+        "nodule",
+        "m"
+      ]
+    ],
+    "ravage": [
+      [
+        "gavage",
+        "r"
+      ],
+      [
+        "lavage",
+        "r"
+      ],
+      [
+        "savage",
+        "r"
+      ]
+    ],
+    "dumbly": [
+      [
+        "humbly",
+        "d"
+      ],
+      [
+        "mumbly",
+        "d"
+      ],
+      [
+        "numbly",
+        "d"
+      ],
+      [
+        "rumbly",
+        "d"
+      ]
+    ],
+    "pincer": [
+      [
+        "mincer",
+        "p"
+      ]
+    ],
+    "rumble": [
+      [
+        "bumble",
+        "r"
+      ],
+      [
+        "fumble",
+        "r"
+      ],
+      [
+        "humble",
+        "r"
+      ],
+      [
+        "jumble",
+        "r"
+      ],
+      [
+        "mumble",
+        "r"
+      ],
+      [
+        "tumble",
+        "r"
+      ]
+    ],
+    "hither": [
+      [
+        "cither",
+        "h"
+      ],
+      [
+        "dither",
+        "h"
+      ],
+      [
+        "either",
+        "h"
+      ],
+      [
+        "lither",
+        "h"
+      ],
+      [
+        "mither",
+        "h"
+      ],
+      [
+        "tither",
+        "h"
+      ],
+      [
+        "wither",
+        "h"
+      ],
+      [
+        "zither",
+        "h"
+      ]
+    ],
+    "verbal": [
+      [
+        "herbal",
+        "v"
+      ]
+    ],
+    "simply": [
+      [
+        "dimply",
+        "s"
+      ],
+      [
+        "limply",
+        "s"
+      ],
+      [
+        "pimply",
+        "s"
+      ]
+    ],
+    "switch": [
+      [
+        "twitch",
+        "s"
+      ]
+    ],
+    "crusty": [
+      [
+        "trusty",
+        "c"
+      ]
+    ],
+    "retard": [
+      [
+        "petard",
+        "r"
+      ]
+    ],
+    "coffer": [
+      [
+        "goffer",
+        "c"
+      ]
+    ],
+    "monkey": [
+      [
+        "donkey",
+        "m"
+      ]
+    ],
+    "saddle": [
+      [
+        "paddle",
+        "s"
+      ],
+      [
+        "raddle",
+        "s"
+      ],
+      [
+        "waddle",
+        "s"
+      ]
+    ],
+    "tactic": [
+      [
+        "lactic",
+        "t"
+      ]
+    ],
+    "crises": [
+      [
+        "arises",
+        "c"
+      ],
+      [
+        "irises",
+        "c"
+      ]
+    ],
+    "plague": [
+      [
+        "blague",
+        "p"
+      ]
+    ],
+    "launch": [
+      [
+        "haunch",
+        "l"
+      ],
+      [
+        "paunch",
+        "l"
+      ]
+    ],
+    "genial": [
+      [
+        "denial",
+        "g"
+      ],
+      [
+        "menial",
+        "g"
+      ],
+      [
+        "venial",
+        "g"
+      ]
+    ],
+    "relict": [
+      [
+        "delict",
+        "r"
+      ]
+    ],
+    "thence": [
+      [
+        "whence",
+        "t"
+      ]
+    ],
+    "coddle": [
+      [
+        "doddle",
+        "c"
+      ],
+      [
+        "noddle",
+        "c"
+      ],
+      [
+        "toddle",
+        "c"
+      ]
+    ],
+    "bingle": [
+      [
+        "dingle",
+        "b"
+      ],
+      [
+        "jingle",
+        "b"
+      ],
+      [
+        "mingle",
+        "b"
+      ],
+      [
+        "single",
+        "b"
+      ],
+      [
+        "tingle",
+        "b"
+      ]
+    ],
+    "bounce": [
+      [
+        "jounce",
+        "b"
+      ],
+      [
+        "pounce",
+        "b"
+      ],
+      [
+        "rounce",
+        "b"
+      ]
+    ],
+    "demise": [
+      [
+        "remise",
+        "d"
+      ]
+    ],
+    "nature": [
+      [
+        "mature",
+        "n"
+      ]
+    ],
+    "kittle": [
+      [
+        "little",
+        "k"
+      ],
+      [
+        "tittle",
+        "k"
+      ],
+      [
+        "vittle",
+        "k"
+      ]
+    ],
+    "hopple": [
+      [
+        "popple",
+        "h"
+      ],
+      [
+        "topple",
+        "h"
+      ]
+    ],
+    "legate": [
+      [
+        "negate",
+        "l"
+      ]
+    ],
+    "trimer": [
+      [
+        "primer",
+        "t"
+      ]
+    ],
+    "apices": [
+      [
+        "spices",
+        "a"
+      ]
+    ],
+    "detest": [
+      [
+        "retest",
+        "d"
+      ]
+    ],
+    "carrot": [
+      [
+        "parrot",
+        "c"
+      ]
+    ],
+    "severe": [
+      [
+        "revere",
+        "s"
+      ]
+    ],
+    "coffee": [
+      [
+        "toffee",
+        "c"
+      ]
+    ],
+    "abject": [
+      [
+        "object",
+        "a"
+      ]
+    ],
+    "knotty": [
+      [
+        "snotty",
+        "k"
+      ]
+    ],
+    "verify": [
+      [
+        "aerify",
+        "v"
+      ]
+    ],
+    "resist": [
+      [
+        "desist",
+        "r"
+      ]
+    ],
+    "glassy": [
+      [
+        "classy",
+        "g"
+      ]
+    ],
+    "wander": [
+      [
+        "bander",
+        "w"
+      ],
+      [
+        "dander",
+        "w"
+      ],
+      [
+        "gander",
+        "w"
+      ],
+      [
+        "lander",
+        "w"
+      ],
+      [
+        "pander",
+        "w"
+      ],
+      [
+        "sander",
+        "w"
+      ]
+    ],
+    "father": [
+      [
+        "bather",
+        "f"
+      ],
+      [
+        "gather",
+        "f"
+      ],
+      [
+        "lather",
+        "f"
+      ],
+      [
+        "rather",
+        "f"
+      ]
+    ],
+    "sludge": [
+      [
+        "bludge",
+        "s"
+      ],
+      [
+        "kludge",
+        "s"
+      ]
+    ],
+    "slater": [
+      [
+        "elater",
+        "s"
+      ],
+      [
+        "plater",
+        "s"
+      ]
+    ],
+    "discus": [
+      [
+        "viscus",
+        "d"
+      ]
+    ],
+    "septic": [
+      [
+        "peptic",
+        "s"
+      ]
+    ],
+    "fright": [
+      [
+        "aright",
+        "f"
+      ],
+      [
+        "bright",
+        "f"
+      ],
+      [
+        "wright",
+        "f"
+      ]
+    ],
+    "flight": [
+      [
+        "alight",
+        "f"
+      ],
+      [
+        "blight",
+        "f"
+      ],
+      [
+        "plight",
+        "f"
+      ],
+      [
+        "slight",
+        "f"
+      ]
+    ],
+    "whence": [
+      [
+        "thence",
+        "w"
+      ]
+    ],
+    "ridden": [
+      [
+        "bidden",
+        "r"
+      ],
+      [
+        "hidden",
+        "r"
+      ],
+      [
+        "midden",
+        "r"
+      ]
+    ],
+    "haunch": [
+      [
+        "launch",
+        "h"
+      ],
+      [
+        "paunch",
+        "h"
+      ]
+    ],
+    "selves": [
+      [
+        "delves",
+        "s"
+      ],
+      [
+        "helves",
+        "s"
+      ]
+    ],
+    "dearth": [
+      [
+        "hearth",
+        "d"
+      ]
+    ],
+    "anarch": [
+      [
+        "inarch",
+        "a"
+      ]
+    ],
+    "jasper": [
+      [
+        "gasper",
+        "j"
+      ],
+      [
+        "rasper",
+        "j"
+      ]
+    ],
+    "bullet": [
+      [
+        "cullet",
+        "b"
+      ],
+      [
+        "gullet",
+        "b"
+      ],
+      [
+        "mullet",
+        "b"
+      ],
+      [
+        "pullet",
+        "b"
+      ]
+    ],
+    "saline": [
+      [
+        "valine",
+        "s"
+      ]
+    ],
+    "urinal": [
+      [
+        "trinal",
+        "u"
+      ]
+    ],
+    "filter": [
+      [
+        "kilter",
+        "f"
+      ],
+      [
+        "milter",
+        "f"
+      ],
+      [
+        "tilter",
+        "f"
+      ]
+    ],
+    "teasel": [
+      [
+        "weasel",
+        "t"
+      ]
+    ],
+    "cutlet": [
+      [
+        "nutlet",
+        "c"
+      ],
+      [
+        "outlet",
+        "c"
+      ]
+    ],
+    "burial": [
+      [
+        "curial",
+        "b"
+      ]
+    ],
+    "wrench": [
+      [
+        "drench",
+        "w"
+      ],
+      [
+        "french",
+        "w"
+      ],
+      [
+        "trench",
+        "w"
+      ]
+    ],
+    "deport": [
+      [
+        "report",
+        "d"
+      ]
+    ],
+    "realty": [
+      [
+        "fealty",
+        "r"
+      ]
+    ],
+    "beater": [
+      [
+        "heater",
+        "b"
+      ],
+      [
+        "neater",
+        "b"
+      ]
+    ],
+    "diddle": [
+      [
+        "fiddle",
+        "d"
+      ],
+      [
+        "middle",
+        "d"
+      ],
+      [
+        "piddle",
+        "d"
+      ],
+      [
+        "riddle",
+        "d"
+      ]
+    ],
+    "midget": [
+      [
+        "fidget",
+        "m"
+      ],
+      [
+        "widget",
+        "m"
+      ]
+    ],
+    "thrill": [
+      [
+        "shrill",
+        "t"
+      ]
+    ],
+    "madmen": [
+      [
+        "badmen",
+        "m"
+      ]
+    ],
+    "wallop": [
+      [
+        "gallop",
+        "w"
+      ]
+    ],
+    "weight": [
+      [
+        "height",
+        "w"
+      ]
+    ],
+    "season": [
+      [
+        "reason",
+        "s"
+      ]
+    ],
+    "divest": [
+      [
+        "livest",
+        "d"
+      ]
+    ],
+    "pimple": [
+      [
+        "dimple",
+        "p"
+      ],
+      [
+        "rimple",
+        "p"
+      ],
+      [
+        "simple",
+        "p"
+      ],
+      [
+        "wimple",
+        "p"
+      ]
+    ],
+    "creaky": [
+      [
+        "freaky",
+        "c"
+      ]
+    ],
+    "county": [
+      [
+        "bounty",
+        "c"
+      ]
+    ],
+    "hurdle": [
+      [
+        "curdle",
+        "h"
+      ]
+    ],
+    "mantle": [
+      [
+        "cantle",
+        "m"
+      ]
+    ],
+    "battle": [
+      [
+        "cattle",
+        "b"
+      ],
+      [
+        "rattle",
+        "b"
+      ],
+      [
+        "tattle",
+        "b"
+      ],
+      [
+        "wattle",
+        "b"
+      ]
+    ],
+    "fallow": [
+      [
+        "callow",
+        "f"
+      ],
+      [
+        "hallow",
+        "f"
+      ],
+      [
+        "mallow",
+        "f"
+      ],
+      [
+        "sallow",
+        "f"
+      ],
+      [
+        "tallow",
+        "f"
+      ],
+      [
+        "wallow",
+        "f"
+      ]
+    ],
+    "harken": [
+      [
+        "darken",
+        "h"
+      ]
+    ],
+    "cowmen": [
+      [
+        "bowmen",
+        "c"
+      ]
+    ],
+    "browse": [
+      [
+        "drowse",
+        "b"
+      ]
+    ],
+    "barren": [
+      [
+        "warren",
+        "b"
+      ]
+    ],
+    "trashy": [
+      [
+        "brashy",
+        "t"
+      ]
+    ],
+    "deface": [
+      [
+        "reface",
+        "d"
+      ]
+    ],
+    "handle": [
+      [
+        "candle",
+        "h"
+      ],
+      [
+        "dandle",
+        "h"
+      ]
+    ],
+    "purify": [
+      [
+        "aurify",
+        "p"
+      ]
+    ],
+    "blight": [
+      [
+        "alight",
+        "b"
+      ],
+      [
+        "flight",
+        "b"
+      ],
+      [
+        "plight",
+        "b"
+      ],
+      [
+        "slight",
+        "b"
+      ]
+    ],
+    "twitch": [
+      [
+        "switch",
+        "t"
+      ]
+    ],
+    "verity": [
+      [
+        "ferity",
+        "v"
+      ]
+    ],
+    "lumber": [
+      [
+        "cumber",
+        "l"
+      ],
+      [
+        "dumber",
+        "l"
+      ],
+      [
+        "number",
+        "l"
+      ]
+    ],
+    "holler": [
+      [
+        "loller",
+        "h"
+      ],
+      [
+        "poller",
+        "h"
+      ],
+      [
+        "roller",
+        "h"
+      ]
+    ],
+    "willow": [
+      [
+        "billow",
+        "w"
+      ],
+      [
+        "pillow",
+        "w"
+      ]
+    ],
+    "eerily": [
+      [
+        "verily",
+        "e"
+      ]
+    ],
+    "heater": [
+      [
+        "beater",
+        "h"
+      ],
+      [
+        "neater",
+        "h"
+      ]
+    ],
+    "canton": [
+      [
+        "wanton",
+        "c"
+      ]
+    ],
+    "linger": [
+      [
+        "binger",
+        "l"
+      ],
+      [
+        "finger",
+        "l"
+      ],
+      [
+        "ginger",
+        "l"
+      ],
+      [
+        "ringer",
+        "l"
+      ],
+      [
+        "singer",
+        "l"
+      ],
+      [
+        "winger",
+        "l"
+      ],
+      [
+        "zinger",
+        "l"
+      ]
+    ],
+    "rotary": [
+      [
+        "notary",
+        "r"
+      ],
+      [
+        "votary",
+        "r"
+      ]
+    ],
+    "wiggle": [
+      [
+        "giggle",
+        "w"
+      ],
+      [
+        "higgle",
+        "w"
+      ],
+      [
+        "jiggle",
+        "w"
+      ],
+      [
+        "niggle",
+        "w"
+      ]
+    ],
+    "decant": [
+      [
+        "recant",
+        "d"
+      ],
+      [
+        "secant",
+        "d"
+      ]
+    ],
+    "wizard": [
+      [
+        "lizard",
+        "w"
+      ],
+      [
+        "vizard",
+        "w"
+      ]
+    ],
+    "teensy": [
+      [
+        "weensy",
+        "t"
+      ]
+    ],
+    "reduce": [
+      [
+        "deduce",
+        "r"
+      ],
+      [
+        "seduce",
+        "r"
+      ]
+    ],
+    "hippie": [
+      [
+        "yippie",
+        "h"
+      ]
+    ],
+    "censor": [
+      [
+        "sensor",
+        "c"
+      ],
+      [
+        "tensor",
+        "c"
+      ]
+    ],
+    "hoarse": [
+      [
+        "coarse",
+        "h"
+      ]
+    ],
+    "loiter": [
+      [
+        "goiter",
+        "l"
+      ]
+    ],
+    "helium": [
+      [
+        "telium",
+        "h"
+      ]
+    ],
+    "eosine": [
+      [
+        "cosine",
+        "e"
+      ]
+    ],
+    "kindle": [
+      [
+        "bindle",
+        "k"
+      ]
+    ],
+    "foster": [
+      [
+        "poster",
+        "f"
+      ],
+      [
+        "roster",
+        "f"
+      ],
+      [
+        "zoster",
+        "f"
+      ]
+    ],
+    "rotten": [
+      [
+        "gotten",
+        "r"
+      ]
+    ],
+    "relief": [
+      [
+        "belief",
+        "r"
+      ]
+    ],
+    "gasket": [
+      [
+        "basket",
+        "g"
+      ],
+      [
+        "casket",
+        "g"
+      ]
+    ],
+    "latter": [
+      [
+        "batter",
+        "l"
+      ],
+      [
+        "fatter",
+        "l"
+      ],
+      [
+        "hatter",
+        "l"
+      ],
+      [
+        "matter",
+        "l"
+      ],
+      [
+        "natter",
+        "l"
+      ],
+      [
+        "patter",
+        "l"
+      ],
+      [
+        "ratter",
+        "l"
+      ],
+      [
+        "tatter",
+        "l"
+      ]
+    ],
+    "secant": [
+      [
+        "decant",
+        "s"
+      ],
+      [
+        "recant",
+        "s"
+      ]
+    ],
+    "coarse": [
+      [
+        "hoarse",
+        "c"
+      ]
+    ],
+    "cutler": [
+      [
+        "butler",
+        "c"
+      ],
+      [
+        "sutler",
+        "c"
+      ]
+    ],
+    "jiggle": [
+      [
+        "giggle",
+        "j"
+      ],
+      [
+        "higgle",
+        "j"
+      ],
+      [
+        "niggle",
+        "j"
+      ],
+      [
+        "wiggle",
+        "j"
+      ]
+    ],
+    "wiggly": [
+      [
+        "giggly",
+        "w"
+      ],
+      [
+        "jiggly",
+        "w"
+      ]
+    ],
+    "clinch": [
+      [
+        "flinch",
+        "c"
+      ]
+    ],
+    "savage": [
+      [
+        "gavage",
+        "s"
+      ],
+      [
+        "lavage",
+        "s"
+      ],
+      [
+        "ravage",
+        "s"
+      ]
+    ],
+    "plaque": [
+      [
+        "claque",
+        "p"
+      ]
+    ],
+    "groggy": [
+      [
+        "froggy",
+        "g"
+      ]
+    ],
+    "inborn": [
+      [
+        "unborn",
+        "i"
+      ]
+    ],
+    "oyster": [
+      [
+        "xyster",
+        "o"
+      ]
+    ],
+    "batten": [
+      [
+        "fatten",
+        "b"
+      ],
+      [
+        "latten",
+        "b"
+      ],
+      [
+        "patten",
+        "b"
+      ]
+    ],
+    "tallow": [
+      [
+        "callow",
+        "t"
+      ],
+      [
+        "fallow",
+        "t"
+      ],
+      [
+        "hallow",
+        "t"
+      ],
+      [
+        "mallow",
+        "t"
+      ],
+      [
+        "sallow",
+        "t"
+      ],
+      [
+        "wallow",
+        "t"
+      ]
+    ],
+    "donkey": [
+      [
+        "monkey",
+        "d"
+      ]
+    ],
+    "freeze": [
+      [
+        "breeze",
+        "f"
+      ]
+    ],
+    "figure": [
+      [
+        "ligure",
+        "f"
+      ]
+    ],
+    "fickle": [
+      [
+        "nickle",
+        "f"
+      ],
+      [
+        "pickle",
+        "f"
+      ],
+      [
+        "sickle",
+        "f"
+      ],
+      [
+        "tickle",
+        "f"
+      ]
+    ],
+    "wombat": [
+      [
+        "combat",
+        "w"
+      ]
+    ],
+    "rennet": [
+      [
+        "bennet",
+        "r"
+      ],
+      [
+        "jennet",
+        "r"
+      ],
+      [
+        "sennet",
+        "r"
+      ]
+    ],
+    "tinkle": [
+      [
+        "winkle",
+        "t"
+      ]
+    ],
+    "layoff": [
+      [
+        "payoff",
+        "l"
+      ]
+    ],
+    "jockey": [
+      [
+        "hockey",
+        "j"
+      ]
+    ],
+    "burley": [
+      [
+        "hurley",
+        "b"
+      ]
+    ],
+    "marque": [
+      [
+        "barque",
+        "m"
+      ]
+    ],
+    "dapper": [
+      [
+        "capper",
+        "d"
+      ],
+      [
+        "mapper",
+        "d"
+      ],
+      [
+        "napper",
+        "d"
+      ],
+      [
+        "rapper",
+        "d"
+      ],
+      [
+        "sapper",
+        "d"
+      ],
+      [
+        "tapper",
+        "d"
+      ],
+      [
+        "yapper",
+        "d"
+      ],
+      [
+        "zapper",
+        "d"
+      ]
+    ],
+    "demand": [
+      [
+        "remand",
+        "d"
+      ]
+    ],
+    "hamper": [
+      [
+        "camper",
+        "h"
+      ],
+      [
+        "damper",
+        "h"
+      ],
+      [
+        "pamper",
+        "h"
+      ],
+      [
+        "tamper",
+        "h"
+      ],
+      [
+        "vamper",
+        "h"
+      ]
+    ],
+    "puddle": [
+      [
+        "buddle",
+        "p"
+      ],
+      [
+        "cuddle",
+        "p"
+      ],
+      [
+        "fuddle",
+        "p"
+      ],
+      [
+        "guddle",
+        "p"
+      ],
+      [
+        "huddle",
+        "p"
+      ],
+      [
+        "muddle",
+        "p"
+      ],
+      [
+        "ruddle",
+        "p"
+      ]
+    ],
+    "ravish": [
+      [
+        "lavish",
+        "r"
+      ]
+    ],
+    "seethe": [
+      [
+        "teethe",
+        "s"
+      ]
+    ],
+    "sledge": [
+      [
+        "fledge",
+        "s"
+      ],
+      [
+        "pledge",
+        "s"
+      ]
+    ],
+    "rabbit": [
+      [
+        "wabbit",
+        "r"
+      ]
+    ],
+    "danger": [
+      [
+        "banger",
+        "d"
+      ],
+      [
+        "ganger",
+        "d"
+      ],
+      [
+        "hanger",
+        "d"
+      ],
+      [
+        "manger",
+        "d"
+      ],
+      [
+        "ranger",
+        "d"
+      ]
+    ],
+    "oblate": [
+      [
+        "ablate",
+        "o"
+      ]
+    ],
+    "gobble": [
+      [
+        "bobble",
+        "g"
+      ],
+      [
+        "cobble",
+        "g"
+      ],
+      [
+        "hobble",
+        "g"
+      ],
+      [
+        "nobble",
+        "g"
+      ],
+      [
+        "wobble",
+        "g"
+      ]
+    ],
+    "rascal": [
+      [
+        "pascal",
+        "r"
+      ]
+    ],
+    "bateau": [
+      [
+        "gateau",
+        "b"
+      ]
+    ],
+    "longue": [
+      [
+        "tongue",
+        "l"
+      ]
+    ],
+    "hazard": [
+      [
+        "mazard",
+        "h"
+      ]
+    ],
+    "grouch": [
+      [
+        "crouch",
+        "g"
+      ]
+    ],
+    "toodle": [
+      [
+        "boodle",
+        "t"
+      ],
+      [
+        "doodle",
+        "t"
+      ],
+      [
+        "noodle",
+        "t"
+      ],
+      [
+        "poodle",
+        "t"
+      ]
+    ],
+    "banter": [
+      [
+        "canter",
+        "b"
+      ],
+      [
+        "ranter",
+        "b"
+      ]
+    ],
+    "decode": [
+      [
+        "recode",
+        "d"
+      ]
+    ],
+    "billow": [
+      [
+        "pillow",
+        "b"
+      ],
+      [
+        "willow",
+        "b"
+      ]
+    ],
+    "gander": [
+      [
+        "bander",
+        "g"
+      ],
+      [
+        "dander",
+        "g"
+      ],
+      [
+        "lander",
+        "g"
+      ],
+      [
+        "pander",
+        "g"
+      ],
+      [
+        "sander",
+        "g"
+      ],
+      [
+        "wander",
+        "g"
+      ]
+    ],
+    "jumble": [
+      [
+        "bumble",
+        "j"
+      ],
+      [
+        "fumble",
+        "j"
+      ],
+      [
+        "humble",
+        "j"
+      ],
+      [
+        "mumble",
+        "j"
+      ],
+      [
+        "rumble",
+        "j"
+      ],
+      [
+        "tumble",
+        "j"
+      ]
+    ],
+    "aerial": [
+      [
+        "ferial",
+        "a"
+      ],
+      [
+        "serial",
+        "a"
+      ]
+    ],
+    "insure": [
+      [
+        "ensure",
+        "i"
+      ],
+      [
+        "unsure",
+        "i"
+      ]
+    ],
+    "during": [
+      [
+        "curing",
+        "d"
+      ],
+      [
+        "luring",
+        "d"
+      ]
+    ],
+    "prance": [
+      [
+        "trance",
+        "p"
+      ]
+    ],
+    "boggle": [
+      [
+        "goggle",
+        "b"
+      ],
+      [
+        "joggle",
+        "b"
+      ],
+      [
+        "toggle",
+        "b"
+      ]
+    ],
+    "pardon": [
+      [
+        "lardon",
+        "p"
+      ]
+    ],
+    "wangle": [
+      [
+        "bangle",
+        "w"
+      ],
+      [
+        "dangle",
+        "w"
+      ],
+      [
+        "jangle",
+        "w"
+      ],
+      [
+        "mangle",
+        "w"
+      ],
+      [
+        "tangle",
+        "w"
+      ]
+    ],
+    "teeing": [
+      [
+        "geeing",
+        "t"
+      ],
+      [
+        "peeing",
+        "t"
+      ],
+      [
+        "seeing",
+        "t"
+      ],
+      [
+        "weeing",
+        "t"
+      ]
+    ],
+    "cancer": [
+      [
+        "dancer",
+        "c"
+      ],
+      [
+        "lancer",
+        "c"
+      ]
+    ],
+    "rabies": [
+      [
+        "babies",
+        "r"
+      ]
+    ],
+    "fletch": [
+      [
+        "bletch",
+        "f"
+      ]
+    ],
+    "sloppy": [
+      [
+        "floppy",
+        "s"
+      ],
+      [
+        "gloppy",
+        "s"
+      ]
+    ],
+    "oppose": [
+      [
+        "appose",
+        "o"
+      ]
+    ],
+    "jounce": [
+      [
+        "bounce",
+        "j"
+      ],
+      [
+        "pounce",
+        "j"
+      ],
+      [
+        "rounce",
+        "j"
+      ]
+    ],
+    "demote": [
+      [
+        "remote",
+        "d"
+      ]
+    ],
+    "voodoo": [
+      [
+        "hoodoo",
+        "v"
+      ],
+      [
+        "koodoo",
+        "v"
+      ]
+    ],
+    "peruse": [
+      [
+        "ceruse",
+        "p"
+      ]
+    ],
+    "beaten": [
+      [
+        "neaten",
+        "b"
+      ]
+    ],
+    "grassy": [
+      [
+        "brassy",
+        "g"
+      ]
+    ],
+    "nation": [
+      [
+        "cation",
+        "n"
+      ],
+      [
+        "ration",
+        "n"
+      ]
+    ],
+    "fatten": [
+      [
+        "batten",
+        "f"
+      ],
+      [
+        "latten",
+        "f"
+      ],
+      [
+        "patten",
+        "f"
+      ]
+    ],
+    "dreamy": [
+      [
+        "creamy",
+        "d"
+      ]
+    ],
+    "deduce": [
+      [
+        "reduce",
+        "d"
+      ],
+      [
+        "seduce",
+        "d"
+      ]
+    ],
+    "gaggle": [
+      [
+        "haggle",
+        "g"
+      ],
+      [
+        "waggle",
+        "g"
+      ]
+    ],
+    "follow": [
+      [
+        "hollow",
+        "f"
+      ]
+    ],
+    "layout": [
+      [
+        "payout",
+        "l"
+      ]
+    ],
+    "fealty": [
+      [
+        "realty",
+        "f"
+      ]
+    ],
+    "zounds": [
+      [
+        "bounds",
+        "z"
+      ],
+      [
+        "founds",
+        "z"
+      ],
+      [
+        "hounds",
+        "z"
+      ],
+      [
+        "mounds",
+        "z"
+      ],
+      [
+        "pounds",
+        "z"
+      ],
+      [
+        "rounds",
+        "z"
+      ],
+      [
+        "sounds",
+        "z"
+      ],
+      [
+        "wounds",
+        "z"
+      ]
+    ],
+    "sallow": [
+      [
+        "callow",
+        "s"
+      ],
+      [
+        "fallow",
+        "s"
+      ],
+      [
+        "hallow",
+        "s"
+      ],
+      [
+        "mallow",
+        "s"
+      ],
+      [
+        "tallow",
+        "s"
+      ],
+      [
+        "wallow",
+        "s"
+      ]
+    ],
+    "carney": [
+      [
+        "barney",
+        "c"
+      ]
+    ],
+    "rutile": [
+      [
+        "futile",
+        "r"
+      ]
+    ],
+    "potion": [
+      [
+        "lotion",
+        "p"
+      ],
+      [
+        "motion",
+        "p"
+      ],
+      [
+        "notion",
+        "p"
+      ]
+    ],
+    "wattle": [
+      [
+        "battle",
+        "w"
+      ],
+      [
+        "cattle",
+        "w"
+      ],
+      [
+        "rattle",
+        "w"
+      ],
+      [
+        "tattle",
+        "w"
+      ]
+    ],
+    "ripple": [
+      [
+        "fipple",
+        "r"
+      ],
+      [
+        "nipple",
+        "r"
+      ],
+      [
+        "tipple",
+        "r"
+      ]
+    ],
+    "pastor": [
+      [
+        "castor",
+        "p"
+      ]
+    ],
+    "warren": [
+      [
+        "barren",
+        "w"
+      ]
+    ],
+    "lowboy": [
+      [
+        "cowboy",
+        "l"
+      ]
+    ],
+    "berate": [
+      [
+        "aerate",
+        "b"
+      ],
+      [
+        "cerate",
+        "b"
+      ]
+    ],
+    "quaver": [
+      [
+        "suaver",
+        "q"
+      ]
+    ],
+    "hector": [
+      [
+        "lector",
+        "h"
+      ],
+      [
+        "rector",
+        "h"
+      ],
+      [
+        "sector",
+        "h"
+      ],
+      [
+        "vector",
+        "h"
+      ]
+    ],
+    "paunch": [
+      [
+        "haunch",
+        "p"
+      ],
+      [
+        "launch",
+        "p"
+      ]
+    ],
+    "plover": [
+      [
+        "clover",
+        "p"
+      ],
+      [
+        "glover",
+        "p"
+      ]
+    ],
+    "craggy": [
+      [
+        "draggy",
+        "c"
+      ]
+    ],
+    "venial": [
+      [
+        "denial",
+        "v"
+      ],
+      [
+        "genial",
+        "v"
+      ],
+      [
+        "menial",
+        "v"
+      ]
+    ],
+    "medium": [
+      [
+        "tedium",
+        "m"
+      ]
+    ],
+    "minion": [
+      [
+        "pinion",
+        "m"
+      ]
+    ],
+    "imbrue": [
+      [
+        "embrue",
+        "i"
+      ]
+    ],
+    "tickle": [
+      [
+        "fickle",
+        "t"
+      ],
+      [
+        "nickle",
+        "t"
+      ],
+      [
+        "pickle",
+        "t"
+      ],
+      [
+        "sickle",
+        "t"
+      ]
+    ],
+    "bounty": [
+      [
+        "county",
+        "b"
+      ]
+    ],
+    "lentil": [
+      [
+        "dentil",
+        "l"
+      ]
+    ],
+    "payoff": [
+      [
+        "layoff",
+        "p"
+      ]
+    ],
+    "docket": [
+      [
+        "locket",
+        "d"
+      ],
+      [
+        "pocket",
+        "d"
+      ],
+      [
+        "rocket",
+        "d"
+      ],
+      [
+        "socket",
+        "d"
+      ]
+    ],
+    "burrow": [
+      [
+        "furrow",
+        "b"
+      ]
+    ],
+    "medial": [
+      [
+        "redial",
+        "m"
+      ]
+    ],
+    "depose": [
+      [
+        "repose",
+        "d"
+      ]
+    ],
+    "decent": [
+      [
+        "recent",
+        "d"
+      ]
+    ],
+    "tappet": [
+      [
+        "lappet",
+        "t"
+      ]
+    ],
+    "farina": [
+      [
+        "carina",
+        "f"
+      ],
+      [
+        "marina",
+        "f"
+      ]
+    ],
+    "grainy": [
+      [
+        "brainy",
+        "g"
+      ]
+    ],
+    "bedbug": [
+      [
+        "redbug",
+        "b"
+      ]
+    ],
+    "region": [
+      [
+        "legion",
+        "r"
+      ]
+    ],
+    "depute": [
+      [
+        "repute",
+        "d"
+      ]
+    ],
+    "cattle": [
+      [
+        "battle",
+        "c"
+      ],
+      [
+        "rattle",
+        "c"
+      ],
+      [
+        "tattle",
+        "c"
+      ],
+      [
+        "wattle",
+        "c"
+      ]
+    ],
+    "ransom": [
+      [
+        "hansom",
+        "r"
+      ]
+    ],
+    "wakeup": [
+      [
+        "makeup",
+        "w"
+      ]
+    ],
+    "ferris": [
+      [
+        "derris",
+        "f"
+      ]
+    ],
+    "basket": [
+      [
+        "casket",
+        "b"
+      ],
+      [
+        "gasket",
+        "b"
+      ]
+    ],
+    "bruise": [
+      [
+        "cruise",
+        "b"
+      ]
+    ],
+    "nipple": [
+      [
+        "fipple",
+        "n"
+      ],
+      [
+        "ripple",
+        "n"
+      ],
+      [
+        "tipple",
+        "n"
+      ]
+    ],
+    "dainty": [
+      [
+        "painty",
+        "d"
+      ]
+    ],
+    "papery": [
+      [
+        "japery",
+        "p"
+      ],
+      [
+        "napery",
+        "p"
+      ]
+    ],
+    "patron": [
+      [
+        "matron",
+        "p"
+      ],
+      [
+        "natron",
+        "p"
+      ]
+    ],
+    "gallus": [
+      [
+        "callus",
+        "g"
+      ]
+    ],
+    "either": [
+      [
+        "cither",
+        "e"
+      ],
+      [
+        "dither",
+        "e"
+      ],
+      [
+        "hither",
+        "e"
+      ],
+      [
+        "lither",
+        "e"
+      ],
+      [
+        "mither",
+        "e"
+      ],
+      [
+        "tither",
+        "e"
+      ],
+      [
+        "wither",
+        "e"
+      ],
+      [
+        "zither",
+        "e"
+      ]
+    ],
+    "drowsy": [
+      [
+        "frowsy",
+        "d"
+      ]
+    ],
+    "bindle": [
+      [
+        "kindle",
+        "b"
+      ]
+    ],
+    "button": [
+      [
+        "mutton",
+        "b"
+      ]
+    ],
+    "fennel": [
+      [
+        "kennel",
+        "f"
+      ]
+    ],
+    "racial": [
+      [
+        "facial",
+        "r"
+      ]
+    ],
+    "deaden": [
+      [
+        "leaden",
+        "d"
+      ]
+    ],
+    "gurgle": [
+      [
+        "burgle",
+        "g"
+      ]
+    ],
+    "survey": [
+      [
+        "purvey",
+        "s"
+      ]
+    ],
+    "raptor": [
+      [
+        "captor",
+        "r"
+      ]
+    ],
+    "donate": [
+      [
+        "zonate",
+        "d"
+      ]
+    ],
+    "hurtle": [
+      [
+        "turtle",
+        "h"
+      ]
+    ],
+    "grudge": [
+      [
+        "drudge",
+        "g"
+      ],
+      [
+        "trudge",
+        "g"
+      ]
+    ],
+    "sinter": [
+      [
+        "hinter",
+        "s"
+      ],
+      [
+        "linter",
+        "s"
+      ],
+      [
+        "minter",
+        "s"
+      ],
+      [
+        "tinter",
+        "s"
+      ],
+      [
+        "winter",
+        "s"
+      ]
+    ],
+    "helmet": [
+      [
+        "pelmet",
+        "h"
+      ]
+    ],
+    "parrot": [
+      [
+        "carrot",
+        "p"
+      ]
+    ],
+    "slushy": [
+      [
+        "plushy",
+        "s"
+      ]
+    ],
+    "rotate": [
+      [
+        "notate",
+        "r"
+      ]
+    ],
+    "fasten": [
+      [
+        "hasten",
+        "f"
+      ]
+    ],
+    "zeroes": [
+      [
+        "heroes",
+        "z"
+      ]
+    ],
+    "fettle": [
+      [
+        "kettle",
+        "f"
+      ],
+      [
+        "mettle",
+        "f"
+      ],
+      [
+        "nettle",
+        "f"
+      ],
+      [
+        "settle",
+        "f"
+      ]
+    ],
+    "dollar": [
+      [
+        "collar",
+        "d"
+      ]
+    ],
+    "maggot": [
+      [
+        "faggot",
+        "m"
+      ]
+    ],
+    "poodle": [
+      [
+        "boodle",
+        "p"
+      ],
+      [
+        "doodle",
+        "p"
+      ],
+      [
+        "noodle",
+        "p"
+      ]
+    ],
+    "fought": [
+      [
+        "bought",
+        "f"
+      ],
+      [
+        "nought",
+        "f"
+      ],
+      [
+        "sought",
+        "f"
+      ]
+    ],
+    "cutout": [
+      [
+        "putout",
+        "c"
+      ]
+    ],
+    "marine": [
+      [
+        "larine",
+        "m"
+      ]
+    ],
+    "mangle": [
+      [
+        "bangle",
+        "m"
+      ],
+      [
+        "dangle",
+        "m"
+      ],
+      [
+        "jangle",
+        "m"
+      ],
+      [
+        "tangle",
+        "m"
+      ],
+      [
+        "wangle",
+        "m"
+      ]
+    ],
+    "heaven": [
+      [
+        "leaven",
+        "h"
+      ]
+    ],
+    "watery": [
+      [
+        "eatery",
+        "w"
+      ]
+    ],
+    "faulty": [
+      [
+        "vaulty",
+        "f"
+      ]
+    ],
+    "ogress": [
+      [
+        "egress",
+        "o"
+      ]
+    ],
+    "shrift": [
+      [
+        "thrift",
+        "s"
+      ]
+    ],
+    "bottle": [
+      [
+        "dottle",
+        "b"
+      ],
+      [
+        "mottle",
+        "b"
+      ],
+      [
+        "pottle",
+        "b"
+      ]
+    ],
+    "tricky": [
+      [
+        "bricky",
+        "t"
+      ]
+    ],
+    "mature": [
+      [
+        "nature",
+        "m"
+      ]
+    ],
+    "pamper": [
+      [
+        "camper",
+        "p"
+      ],
+      [
+        "damper",
+        "p"
+      ],
+      [
+        "hamper",
+        "p"
+      ],
+      [
+        "tamper",
+        "p"
+      ],
+      [
+        "vamper",
+        "p"
+      ]
+    ],
+    "lawyer": [
+      [
+        "sawyer",
+        "l"
+      ]
+    ],
+    "coward": [
+      [
+        "toward",
+        "c"
+      ]
+    ],
+    "garish": [
+      [
+        "marish",
+        "g"
+      ],
+      [
+        "parish",
+        "g"
+      ]
+    ],
+    "flinch": [
+      [
+        "clinch",
+        "f"
+      ]
+    ],
+    "urgent": [
+      [
+        "argent",
+        "u"
+      ]
+    ],
+    "vocate": [
+      [
+        "locate",
+        "v"
+      ]
+    ],
+    "mallet": [
+      [
+        "ballet",
+        "m"
+      ],
+      [
+        "pallet",
+        "m"
+      ],
+      [
+        "sallet",
+        "m"
+      ],
+      [
+        "wallet",
+        "m"
+      ]
+    ],
+    "payday": [
+      [
+        "mayday",
+        "p"
+      ]
+    ],
+    "socket": [
+      [
+        "docket",
+        "s"
+      ],
+      [
+        "locket",
+        "s"
+      ],
+      [
+        "pocket",
+        "s"
+      ],
+      [
+        "rocket",
+        "s"
+      ]
+    ],
+    "brainy": [
+      [
+        "grainy",
+        "b"
+      ]
+    ],
+    "sonnet": [
+      [
+        "bonnet",
+        "s"
+      ]
+    ],
+    "solder": [
+      [
+        "bolder",
+        "s"
+      ],
+      [
+        "colder",
+        "s"
+      ],
+      [
+        "folder",
+        "s"
+      ],
+      [
+        "holder",
+        "s"
+      ],
+      [
+        "molder",
+        "s"
+      ],
+      [
+        "polder",
+        "s"
+      ]
+    ],
+    "series": [
+      [
+        "aeries",
+        "s"
+      ]
+    ],
+    "legion": [
+      [
+        "region",
+        "l"
+      ]
+    ],
+    "plushy": [
+      [
+        "slushy",
+        "p"
+      ]
+    ],
+    "breeze": [
+      [
+        "freeze",
+        "b"
+      ]
+    ],
+    "yarrow": [
+      [
+        "barrow",
+        "y"
+      ],
+      [
+        "farrow",
+        "y"
+      ],
+      [
+        "harrow",
+        "y"
+      ],
+      [
+        "marrow",
+        "y"
+      ],
+      [
+        "narrow",
+        "y"
+      ]
+    ],
+    "bellum": [
+      [
+        "vellum",
+        "b"
+      ]
+    ],
+    "gimbal": [
+      [
+        "timbal",
+        "g"
+      ]
+    ],
+    "famine": [
+      [
+        "gamine",
+        "f"
+      ]
+    ],
+    "happen": [
+      [
+        "rappen",
+        "h"
+      ]
+    ],
+    "semper": [
+      [
+        "temper",
+        "s"
+      ]
+    ],
+    "orange": [
+      [
+        "grange",
+        "o"
+      ]
+    ],
+    "wanton": [
+      [
+        "canton",
+        "w"
+      ]
+    ],
+    "piddle": [
+      [
+        "diddle",
+        "p"
+      ],
+      [
+        "fiddle",
+        "p"
+      ],
+      [
+        "middle",
+        "p"
+      ],
+      [
+        "riddle",
+        "p"
+      ]
+    ],
+    "sensor": [
+      [
+        "censor",
+        "s"
+      ],
+      [
+        "tensor",
+        "s"
+      ]
+    ],
+    "picket": [
+      [
+        "ticket",
+        "p"
+      ],
+      [
+        "wicket",
+        "p"
+      ]
+    ],
+    "sedate": [
+      [
+        "pedate",
+        "s"
+      ]
+    ],
+    "arouse": [
+      [
+        "crouse",
+        "a"
+      ],
+      [
+        "grouse",
+        "a"
+      ]
+    ],
+    "bleach": [
+      [
+        "pleach",
+        "b"
+      ]
+    ],
+    "lotion": [
+      [
+        "motion",
+        "l"
+      ],
+      [
+        "notion",
+        "l"
+      ],
+      [
+        "potion",
+        "l"
+      ]
+    ],
+    "bisque": [
+      [
+        "risque",
+        "b"
+      ]
+    ],
+    "parley": [
+      [
+        "barley",
+        "p"
+      ]
+    ],
+    "tootle": [
+      [
+        "footle",
+        "t"
+      ]
+    ],
+    "neater": [
+      [
+        "beater",
+        "n"
+      ],
+      [
+        "heater",
+        "n"
+      ]
+    ],
+    "foment": [
+      [
+        "loment",
+        "f"
+      ],
+      [
+        "moment",
+        "f"
+      ]
+    ],
+    "jingle": [
+      [
+        "bingle",
+        "j"
+      ],
+      [
+        "dingle",
+        "j"
+      ],
+      [
+        "mingle",
+        "j"
+      ],
+      [
+        "single",
+        "j"
+      ],
+      [
+        "tingle",
+        "j"
+      ]
+    ],
+    "nimbus": [
+      [
+        "limbus",
+        "n"
+      ]
+    ],
+    "codify": [
+      [
+        "modify",
+        "c"
+      ]
+    ],
+    "drowse": [
+      [
+        "browse",
+        "d"
+      ]
+    ],
+    "godkin": [
+      [
+        "bodkin",
+        "g"
+      ]
+    ],
+    "debate": [
+      [
+        "rebate",
+        "d"
+      ]
+    ],
+    "ruffle": [
+      [
+        "muffle",
+        "r"
+      ]
+    ],
+    "blurry": [
+      [
+        "flurry",
+        "b"
+      ],
+      [
+        "slurry",
+        "b"
+      ]
+    ],
+    "menace": [
+      [
+        "tenace",
+        "m"
+      ]
+    ],
+    "cackle": [
+      [
+        "hackle",
+        "c"
+      ],
+      [
+        "mackle",
+        "c"
+      ],
+      [
+        "tackle",
+        "c"
+      ]
+    ],
+    "negate": [
+      [
+        "legate",
+        "n"
+      ]
+    ],
+    "thrive": [
+      [
+        "shrive",
+        "t"
+      ]
+    ],
+    "crafty": [
+      [
+        "drafty",
+        "c"
+      ]
+    ],
+    "winkle": [
+      [
+        "tinkle",
+        "w"
+      ]
+    ],
+    "fiddle": [
+      [
+        "diddle",
+        "f"
+      ],
+      [
+        "middle",
+        "f"
+      ],
+      [
+        "piddle",
+        "f"
+      ],
+      [
+        "riddle",
+        "f"
+      ]
+    ],
+    "rabble": [
+      [
+        "babble",
+        "r"
+      ],
+      [
+        "dabble",
+        "r"
+      ],
+      [
+        "gabble",
+        "r"
+      ]
+    ],
+    "normal": [
+      [
+        "formal",
+        "n"
+      ]
+    ],
+    "retain": [
+      [
+        "detain",
+        "r"
+      ]
+    ],
+    "valley": [
+      [
+        "galley",
+        "v"
+      ]
+    ],
+    "garner": [
+      [
+        "darner",
+        "g"
+      ],
+      [
+        "earner",
+        "g"
+      ]
+    ],
+    "weasel": [
+      [
+        "teasel",
+        "w"
+      ]
+    ],
+    "design": [
+      [
+        "resign",
+        "d"
+      ]
+    ],
+    "sector": [
+      [
+        "hector",
+        "s"
+      ],
+      [
+        "lector",
+        "s"
+      ],
+      [
+        "rector",
+        "s"
+      ],
+      [
+        "vector",
+        "s"
+      ]
+    ],
+    "siesta": [
+      [
+        "fiesta",
+        "s"
+      ]
+    ],
+    "crouch": [
+      [
+        "grouch",
+        "c"
+      ]
+    ],
+    "bathos": [
+      [
+        "pathos",
+        "b"
+      ]
+    ],
+    "demark": [
+      [
+        "remark",
+        "d"
+      ]
+    ],
+    "deform": [
+      [
+        "reform",
+        "d"
+      ]
+    ],
+    "marvel": [
+      [
+        "carvel",
+        "m"
+      ]
+    ],
+    "solute": [
+      [
+        "volute",
+        "s"
+      ]
+    ],
+    "glossy": [
+      [
+        "flossy",
+        "g"
+      ]
+    ],
+    "fellow": [
+      [
+        "bellow",
+        "f"
+      ],
+      [
+        "mellow",
+        "f"
+      ],
+      [
+        "yellow",
+        "f"
+      ]
+    ],
+    "deject": [
+      [
+        "reject",
+        "d"
+      ]
+    ],
+    "nimble": [
+      [
+        "fimble",
+        "n"
+      ],
+      [
+        "wimble",
+        "n"
+      ]
+    ],
+    "classy": [
+      [
+        "glassy",
+        "c"
+      ]
+    ],
+    "meddle": [
+      [
+        "heddle",
+        "m"
+      ],
+      [
+        "peddle",
+        "m"
+      ]
+    ],
+    "errant": [
+      [
+        "arrant",
+        "e"
+      ]
+    ],
+    "jersey": [
+      [
+        "kersey",
+        "j"
+      ]
+    ],
+    "muffle": [
+      [
+        "ruffle",
+        "m"
+      ]
+    ],
+    "garnet": [
+      [
+        "carnet",
+        "g"
+      ]
+    ],
+    "furrow": [
+      [
+        "burrow",
+        "f"
+      ]
+    ],
+    "morose": [
+      [
+        "torose",
+        "m"
+      ]
+    ],
+    "thrift": [
+      [
+        "shrift",
+        "t"
+      ]
+    ],
+    "muzzle": [
+      [
+        "guzzle",
+        "m"
+      ],
+      [
+        "nuzzle",
+        "m"
+      ],
+      [
+        "puzzle",
+        "m"
+      ]
+    ],
+    "desist": [
+      [
+        "resist",
+        "d"
+      ]
+    ],
+    "nibble": [
+      [
+        "dibble",
+        "n"
+      ],
+      [
+        "kibble",
+        "n"
+      ]
+    ],
+    "bonnet": [
+      [
+        "sonnet",
+        "b"
+      ]
+    ],
+    "yellow": [
+      [
+        "bellow",
+        "y"
+      ],
+      [
+        "fellow",
+        "y"
+      ],
+      [
+        "mellow",
+        "y"
+      ]
+    ],
+    "blanch": [
+      [
+        "flanch",
+        "b"
+      ]
+    ],
+    "wobble": [
+      [
+        "bobble",
+        "w"
+      ],
+      [
+        "cobble",
+        "w"
+      ],
+      [
+        "gobble",
+        "w"
+      ],
+      [
+        "hobble",
+        "w"
+      ],
+      [
+        "nobble",
+        "w"
+      ]
+    ],
+    "labile": [
+      [
+        "habile",
+        "l"
+      ]
+    ],
+    "captor": [
+      [
+        "raptor",
+        "c"
+      ]
+    ],
+    "beside": [
+      [
+        "reside",
+        "b"
+      ]
+    ],
+    "bidden": [
+      [
+        "hidden",
+        "b"
+      ],
+      [
+        "midden",
+        "b"
+      ],
+      [
+        "ridden",
+        "b"
+      ]
+    ],
+    "seduce": [
+      [
+        "deduce",
+        "s"
+      ],
+      [
+        "reduce",
+        "s"
+      ]
+    ],
+    "serial": [
+      [
+        "aerial",
+        "s"
+      ],
+      [
+        "ferial",
+        "s"
+      ]
+    ],
+    "bobbin": [
+      [
+        "dobbin",
+        "b"
+      ],
+      [
+        "robbin",
+        "b"
+      ]
+    ],
+    "paddle": [
+      [
+        "raddle",
+        "p"
+      ],
+      [
+        "saddle",
+        "p"
+      ],
+      [
+        "waddle",
+        "p"
+      ]
+    ],
+    "suffer": [
+      [
+        "buffer",
+        "s"
+      ],
+      [
+        "duffer",
+        "s"
+      ],
+      [
+        "puffer",
+        "s"
+      ]
+    ],
+    "bridge": [
+      [
+        "fridge",
+        "b"
+      ]
+    ],
+    "torrid": [
+      [
+        "horrid",
+        "t"
+      ]
+    ],
+    "craven": [
+      [
+        "graven",
+        "c"
+      ]
+    ],
+    "peddle": [
+      [
+        "heddle",
+        "p"
+      ],
+      [
+        "meddle",
+        "p"
+      ]
+    ],
+    "pillow": [
+      [
+        "billow",
+        "p"
+      ],
+      [
+        "willow",
+        "p"
+      ]
+    ],
+    "pickle": [
+      [
+        "fickle",
+        "p"
+      ],
+      [
+        "nickle",
+        "p"
+      ],
+      [
+        "sickle",
+        "p"
+      ],
+      [
+        "tickle",
+        "p"
+      ]
+    ],
+    "forbid": [
+      [
+        "morbid",
+        "f"
+      ]
+    ],
+    "dyeing": [
+      [
+        "eyeing",
+        "d"
+      ]
+    ],
+    "pummel": [
+      [
+        "kummel",
+        "p"
+      ]
+    ],
+    "rookie": [
+      [
+        "bookie",
+        "r"
+      ],
+      [
+        "cookie",
+        "r"
+      ],
+      [
+        "nookie",
+        "r"
+      ]
+    ],
+    "autism": [
+      [
+        "mutism",
+        "a"
+      ]
+    ],
+    "praise": [
+      [
+        "braise",
+        "p"
+      ],
+      [
+        "fraise",
+        "p"
+      ]
+    ],
+    "babble": [
+      [
+        "dabble",
+        "b"
+      ],
+      [
+        "gabble",
+        "b"
+      ],
+      [
+        "rabble",
+        "b"
+      ]
+    ],
+    "nettle": [
+      [
+        "fettle",
+        "n"
+      ],
+      [
+        "kettle",
+        "n"
+      ],
+      [
+        "mettle",
+        "n"
+      ],
+      [
+        "settle",
+        "n"
+      ]
+    ],
+    "summer": [
+      [
+        "bummer",
+        "s"
+      ],
+      [
+        "hummer",
+        "s"
+      ],
+      [
+        "mummer",
+        "s"
+      ],
+      [
+        "rummer",
+        "s"
+      ]
+    ],
+    "holden": [
+      [
+        "golden",
+        "h"
+      ]
+    ],
+    "knobby": [
+      [
+        "snobby",
+        "k"
+      ]
+    ],
+    "notate": [
+      [
+        "rotate",
+        "n"
+      ]
+    ],
+    "wither": [
+      [
+        "cither",
+        "w"
+      ],
+      [
+        "dither",
+        "w"
+      ],
+      [
+        "either",
+        "w"
+      ],
+      [
+        "hither",
+        "w"
+      ],
+      [
+        "lither",
+        "w"
+      ],
+      [
+        "mither",
+        "w"
+      ],
+      [
+        "tither",
+        "w"
+      ],
+      [
+        "zither",
+        "w"
+      ]
+    ],
+    "supine": [
+      [
+        "lupine",
+        "s"
+      ]
+    ],
+    "bicker": [
+      [
+        "dicker",
+        "b"
+      ],
+      [
+        "kicker",
+        "b"
+      ],
+      [
+        "licker",
+        "b"
+      ],
+      [
+        "nicker",
+        "b"
+      ],
+      [
+        "picker",
+        "b"
+      ],
+      [
+        "sicker",
+        "b"
+      ],
+      [
+        "ticker",
+        "b"
+      ],
+      [
+        "wicker",
+        "b"
+      ]
+    ],
+    "catchy": [
+      [
+        "patchy",
+        "c"
+      ]
+    ],
+    "cherry": [
+      [
+        "sherry",
+        "c"
+      ],
+      [
+        "wherry",
+        "c"
+      ]
+    ],
+    "lavish": [
+      [
+        "ravish",
+        "l"
+      ]
+    ],
+    "lineal": [
+      [
+        "pineal",
+        "l"
+      ]
+    ],
+    "demean": [
+      [
+        "bemean",
+        "d"
+      ]
+    ],
+    "postal": [
+      [
+        "costal",
+        "p"
+      ]
+    ],
+    "combat": [
+      [
+        "wombat",
+        "c"
+      ]
+    ],
+    "mutter": [
+      [
+        "butter",
+        "m"
+      ],
+      [
+        "cutter",
+        "m"
+      ],
+      [
+        "gutter",
+        "m"
+      ],
+      [
+        "nutter",
+        "m"
+      ],
+      [
+        "putter",
+        "m"
+      ]
+    ],
+    "simper": [
+      [
+        "limper",
+        "s"
+      ]
+    ],
+    "native": [
+      [
+        "dative",
+        "n"
+      ]
+    ],
+    "define": [
+      [
+        "refine",
+        "d"
+      ]
+    ],
+    "tedium": [
+      [
+        "medium",
+        "t"
+      ]
+    ],
+    "haggle": [
+      [
+        "gaggle",
+        "h"
+      ],
+      [
+        "waggle",
+        "h"
+      ]
+    ],
+    "surrey": [
+      [
+        "murrey",
+        "s"
+      ]
+    ],
+    "masque": [
+      [
+        "basque",
+        "m"
+      ],
+      [
+        "casque",
+        "m"
+      ]
+    ],
+    "inside": [
+      [
+        "onside",
+        "i"
+      ]
+    ],
+    "winnow": [
+      [
+        "minnow",
+        "w"
+      ]
+    ],
+    "sister": [
+      [
+        "bister",
+        "s"
+      ],
+      [
+        "lister",
+        "s"
+      ],
+      [
+        "mister",
+        "s"
+      ]
+    ],
+    "mockup": [
+      [
+        "cockup",
+        "m"
+      ],
+      [
+        "lockup",
+        "m"
+      ]
+    ],
+    "height": [
+      [
+        "weight",
+        "h"
+      ]
+    ],
+    "hurley": [
+      [
+        "burley",
+        "h"
+      ]
+    ],
+    "vandal": [
+      [
+        "sandal",
+        "v"
+      ]
+    ],
+    "ground": [
+      [
+        "around",
+        "g"
+      ]
+    ],
+    "tipple": [
+      [
+        "fipple",
+        "t"
+      ],
+      [
+        "nipple",
+        "t"
+      ],
+      [
+        "ripple",
+        "t"
+      ]
+    ],
+    "heroes": [
+      [
+        "zeroes",
+        "h"
+      ]
+    ],
+    "pounce": [
+      [
+        "bounce",
+        "p"
+      ],
+      [
+        "jounce",
+        "p"
+      ],
+      [
+        "rounce",
+        "p"
+      ]
+    ],
+    "hollow": [
+      [
+        "follow",
+        "h"
+      ]
+    ],
+    "cement": [
+      [
+        "dement",
+        "c"
+      ]
+    ],
+    "breach": [
+      [
+        "preach",
+        "b"
+      ]
+    ],
+    "egress": [
+      [
+        "ogress",
+        "e"
+      ]
+    ],
+    "winery": [
+      [
+        "finery",
+        "w"
+      ],
+      [
+        "pinery",
+        "w"
+      ],
+      [
+        "vinery",
+        "w"
+      ]
+    ],
+    "sloven": [
+      [
+        "cloven",
+        "s"
+      ]
+    ],
+    "gloomy": [
+      [
+        "bloomy",
+        "g"
+      ]
+    ],
+    "somber": [
+      [
+        "bomber",
+        "s"
+      ],
+      [
+        "comber",
+        "s"
+      ]
+    ],
+    "beckon": [
+      [
+        "reckon",
+        "b"
+      ]
+    ],
+    "cortex": [
+      [
+        "vortex",
+        "c"
+      ]
+    ],
+    "tether": [
+      [
+        "aether",
+        "t"
+      ],
+      [
+        "nether",
+        "t"
+      ],
+      [
+        "wether",
+        "t"
+      ]
+    ],
+    "ginger": [
+      [
+        "binger",
+        "g"
+      ],
+      [
+        "finger",
+        "g"
+      ],
+      [
+        "linger",
+        "g"
+      ],
+      [
+        "ringer",
+        "g"
+      ],
+      [
+        "singer",
+        "g"
+      ],
+      [
+        "winger",
+        "g"
+      ],
+      [
+        "zinger",
+        "g"
+      ]
+    ],
+    "jungle": [
+      [
+        "bungle",
+        "j"
+      ]
+    ],
+    "middle": [
+      [
+        "diddle",
+        "m"
+      ],
+      [
+        "fiddle",
+        "m"
+      ],
+      [
+        "piddle",
+        "m"
+      ],
+      [
+        "riddle",
+        "m"
+      ]
+    ],
+    "morbid": [
+      [
+        "forbid",
+        "m"
+      ]
+    ],
+    "mottle": [
+      [
+        "bottle",
+        "m"
+      ],
+      [
+        "dottle",
+        "m"
+      ],
+      [
+        "pottle",
+        "m"
+      ]
+    ],
+    "lupine": [
+      [
+        "supine",
+        "l"
+      ]
+    ],
+    "affect": [
+      [
+        "effect",
+        "a"
+      ]
+    ],
+    "around": [
+      [
+        "ground",
+        "a"
+      ]
+    ],
+    "rubric": [
+      [
+        "lubric",
+        "r"
+      ]
+    ],
+    "valine": [
+      [
+        "saline",
+        "v"
+      ]
+    ],
+    "humble": [
+      [
+        "bumble",
+        "h"
+      ],
+      [
+        "fumble",
+        "h"
+      ],
+      [
+        "jumble",
+        "h"
+      ],
+      [
+        "mumble",
+        "h"
+      ],
+      [
+        "rumble",
+        "h"
+      ],
+      [
+        "tumble",
+        "h"
+      ]
+    ],
+    "crunch": [
+      [
+        "brunch",
+        "c"
+      ]
+    ],
+    "pestle": [
+      [
+        "nestle",
+        "p"
+      ]
+    ],
+    "mother": [
+      [
+        "bother",
+        "m"
+      ],
+      [
+        "pother",
+        "m"
+      ],
+      [
+        "tother",
+        "m"
+      ]
+    ],
+    "wealth": [
+      [
+        "health",
+        "w"
+      ]
+    ],
+    "bright": [
+      [
+        "aright",
+        "b"
+      ],
+      [
+        "fright",
+        "b"
+      ],
+      [
+        "wright",
+        "b"
+      ]
+    ],
+    "slurry": [
+      [
+        "blurry",
+        "s"
+      ],
+      [
+        "flurry",
+        "s"
+      ]
+    ],
+    "fiesta": [
+      [
+        "siesta",
+        "f"
+      ]
+    ],
+    "crease": [
+      [
+        "grease",
+        "c"
+      ],
+      [
+        "urease",
+        "c"
+      ]
+    ],
+    "finite": [
+      [
+        "pinite",
+        "f"
+      ]
+    ],
+    "hamlet": [
+      [
+        "camlet",
+        "h"
+      ]
+    ],
+    "mettle": [
+      [
+        "fettle",
+        "m"
+      ],
+      [
+        "kettle",
+        "m"
+      ],
+      [
+        "nettle",
+        "m"
+      ],
+      [
+        "settle",
+        "m"
+      ]
+    ],
+    "warden": [
+      [
+        "garden",
+        "w"
+      ],
+      [
+        "harden",
+        "w"
+      ]
+    ],
+    "snotty": [
+      [
+        "knotty",
+        "s"
+      ]
+    ],
+    "flimsy": [
+      [
+        "slimsy",
+        "f"
+      ]
+    ],
+    "thirty": [
+      [
+        "shirty",
+        "t"
+      ]
+    ],
+    "remote": [
+      [
+        "demote",
+        "r"
+      ]
+    ],
+    "bungle": [
+      [
+        "jungle",
+        "b"
+      ]
+    ],
+    "proper": [
+      [
+        "groper",
+        "p"
+      ]
+    ],
+    "serine": [
+      [
+        "ferine",
+        "s"
+      ]
+    ],
+    "boyish": [
+      [
+        "goyish",
+        "b"
+      ]
+    ],
+    "eldest": [
+      [
+        "oldest",
+        "e"
+      ]
+    ],
+    "bouncy": [
+      [
+        "jouncy",
+        "b"
+      ]
+    ],
+    "mayfly": [
+      [
+        "dayfly",
+        "m"
+      ]
+    ],
+    "wasn't": [
+      [
+        "hasn't",
+        "w"
+      ]
+    ],
+    "carton": [
+      [
+        "barton",
+        "c"
+      ],
+      [
+        "parton",
+        "c"
+      ]
+    ],
+    "privet": [
+      [
+        "grivet",
+        "p"
+      ],
+      [
+        "trivet",
+        "p"
+      ]
+    ],
+    "toggle": [
+      [
+        "boggle",
+        "t"
+      ],
+      [
+        "goggle",
+        "t"
+      ],
+      [
+        "joggle",
+        "t"
+      ]
+    ],
+    "nutate": [
+      [
+        "mutate",
+        "n"
+      ]
+    ],
+    "gamble": [
+      [
+        "ramble",
+        "g"
+      ],
+      [
+        "wamble",
+        "g"
+      ]
+    ],
+    "tablet": [
+      [
+        "cablet",
+        "t"
+      ],
+      [
+        "gablet",
+        "t"
+      ]
+    ],
+    "huddle": [
+      [
+        "buddle",
+        "h"
+      ],
+      [
+        "cuddle",
+        "h"
+      ],
+      [
+        "fuddle",
+        "h"
+      ],
+      [
+        "guddle",
+        "h"
+      ],
+      [
+        "muddle",
+        "h"
+      ],
+      [
+        "puddle",
+        "h"
+      ],
+      [
+        "ruddle",
+        "h"
+      ]
+    ],
+    "harrow": [
+      [
+        "barrow",
+        "h"
+      ],
+      [
+        "farrow",
+        "h"
+      ],
+      [
+        "marrow",
+        "h"
+      ],
+      [
+        "narrow",
+        "h"
+      ],
+      [
+        "yarrow",
+        "h"
+      ]
+    ],
+    "suture": [
+      [
+        "future",
+        "s"
+      ]
+    ],
+    "warble": [
+      [
+        "garble",
+        "w"
+      ],
+      [
+        "marble",
+        "w"
+      ]
+    ],
+    "belief": [
+      [
+        "relief",
+        "b"
+      ]
+    ],
+    "matron": [
+      [
+        "natron",
+        "m"
+      ],
+      [
+        "patron",
+        "m"
+      ]
+    ],
+    "remand": [
+      [
+        "demand",
+        "r"
+      ]
+    ],
+    "collar": [
+      [
+        "dollar",
+        "c"
+      ]
+    ],
+    "bucket": [
+      [
+        "tucket",
+        "b"
+      ]
+    ],
+    "jitter": [
+      [
+        "bitter",
+        "j"
+      ],
+      [
+        "fitter",
+        "j"
+      ],
+      [
+        "hitter",
+        "j"
+      ],
+      [
+        "litter",
+        "j"
+      ],
+      [
+        "sitter",
+        "j"
+      ],
+      [
+        "titter",
+        "j"
+      ],
+      [
+        "witter",
+        "j"
+      ]
+    ],
+    "dollop": [
+      [
+        "collop",
+        "d"
+      ],
+      [
+        "lollop",
+        "d"
+      ]
+    ],
+    "winter": [
+      [
+        "hinter",
+        "w"
+      ],
+      [
+        "linter",
+        "w"
+      ],
+      [
+        "minter",
+        "w"
+      ],
+      [
+        "sinter",
+        "w"
+      ],
+      [
+        "tinter",
+        "w"
+      ]
+    ],
+    "caught": [
+      [
+        "naught",
+        "c"
+      ],
+      [
+        "taught",
+        "c"
+      ]
+    ],
+    "heckle": [
+      [
+        "deckle",
+        "h"
+      ]
+    ],
+    "baffle": [
+      [
+        "raffle",
+        "b"
+      ],
+      [
+        "waffle",
+        "b"
+      ]
+    ],
+    "rector": [
+      [
+        "hector",
+        "r"
+      ],
+      [
+        "lector",
+        "r"
+      ],
+      [
+        "sector",
+        "r"
+      ],
+      [
+        "vector",
+        "r"
+      ]
+    ],
+    "cowboy": [
+      [
+        "lowboy",
+        "c"
+      ]
+    ],
+    "hockey": [
+      [
+        "jockey",
+        "h"
+      ]
+    ],
+    "forage": [
+      [
+        "borage",
+        "f"
+      ]
+    ],
+    "tailor": [
+      [
+        "bailor",
+        "t"
+      ],
+      [
+        "sailor",
+        "t"
+      ]
+    ],
+    "russet": [
+      [
+        "gusset",
+        "r"
+      ]
+    ],
+    "border": [
+      [
+        "corder",
+        "b"
+      ]
+    ],
+    "merlin": [
+      [
+        "berlin",
+        "m"
+      ]
+    ],
+    "twirly": [
+      [
+        "swirly",
+        "t"
+      ]
+    ],
+    "raster": [
+      [
+        "baster",
+        "r"
+      ],
+      [
+        "caster",
+        "r"
+      ],
+      [
+        "faster",
+        "r"
+      ],
+      [
+        "master",
+        "r"
+      ],
+      [
+        "taster",
+        "r"
+      ],
+      [
+        "vaster",
+        "r"
+      ],
+      [
+        "waster",
+        "r"
+      ]
+    ],
+    "deacon": [
+      [
+        "beacon",
+        "d"
+      ]
+    ],
+    "nigger": [
+      [
+        "bigger",
+        "n"
+      ],
+      [
+        "digger",
+        "n"
+      ],
+      [
+        "jigger",
+        "n"
+      ],
+      [
+        "rigger",
+        "n"
+      ]
+    ],
+    "tingle": [
+      [
+        "bingle",
+        "t"
+      ],
+      [
+        "dingle",
+        "t"
+      ],
+      [
+        "jingle",
+        "t"
+      ],
+      [
+        "mingle",
+        "t"
+      ],
+      [
+        "single",
+        "t"
+      ]
+    ],
+    "wonder": [
+      [
+        "fonder",
+        "w"
+      ],
+      [
+        "ponder",
+        "w"
+      ],
+      [
+        "yonder",
+        "w"
+      ]
+    ],
+    "motion": [
+      [
+        "lotion",
+        "m"
+      ],
+      [
+        "notion",
+        "m"
+      ],
+      [
+        "potion",
+        "m"
+      ]
+    ],
+    "eighty": [
+      [
+        "mighty",
+        "e"
+      ],
+      [
+        "nighty",
+        "e"
+      ]
+    ],
+    "onrush": [
+      [
+        "inrush",
+        "o"
+      ]
+    ],
+    "leaden": [
+      [
+        "deaden",
+        "l"
+      ]
+    ],
+    "kettle": [
+      [
+        "fettle",
+        "k"
+      ],
+      [
+        "mettle",
+        "k"
+      ],
+      [
+        "nettle",
+        "k"
+      ],
+      [
+        "settle",
+        "k"
+      ]
+    ],
+    "slight": [
+      [
+        "alight",
+        "s"
+      ],
+      [
+        "blight",
+        "s"
+      ],
+      [
+        "flight",
+        "s"
+      ],
+      [
+        "plight",
+        "s"
+      ]
+    ],
+    "rental": [
+      [
+        "cental",
+        "r"
+      ],
+      [
+        "dental",
+        "r"
+      ],
+      [
+        "mental",
+        "r"
+      ]
+    ],
+    "brunch": [
+      [
+        "crunch",
+        "b"
+      ]
+    ],
+    "proton": [
+      [
+        "croton",
+        "p"
+      ]
+    ],
+    "polite": [
+      [
+        "iolite",
+        "p"
+      ],
+      [
+        "oolite",
+        "p"
+      ]
+    ],
+    "roster": [
+      [
+        "foster",
+        "r"
+      ],
+      [
+        "poster",
+        "r"
+      ],
+      [
+        "zoster",
+        "r"
+      ]
+    ],
+    "goggle": [
+      [
+        "boggle",
+        "g"
+      ],
+      [
+        "joggle",
+        "g"
+      ],
+      [
+        "toggle",
+        "g"
+      ]
+    ],
+    "belate": [
+      [
+        "delate",
+        "b"
+      ],
+      [
+        "relate",
+        "b"
+      ],
+      [
+        "velate",
+        "b"
+      ]
+    ],
+    "gotten": [
+      [
+        "rotten",
+        "g"
+      ]
+    ],
+    "tinder": [
+      [
+        "binder",
+        "t"
+      ],
+      [
+        "cinder",
+        "t"
+      ],
+      [
+        "finder",
+        "t"
+      ],
+      [
+        "hinder",
+        "t"
+      ],
+      [
+        "kinder",
+        "t"
+      ],
+      [
+        "minder",
+        "t"
+      ],
+      [
+        "winder",
+        "t"
+      ]
+    ],
+    "gather": [
+      [
+        "bather",
+        "g"
+      ],
+      [
+        "father",
+        "g"
+      ],
+      [
+        "lather",
+        "g"
+      ],
+      [
+        "rather",
+        "g"
+      ]
+    ],
+    "sherry": [
+      [
+        "cherry",
+        "s"
+      ],
+      [
+        "wherry",
+        "s"
+      ]
+    ],
+    "toddle": [
+      [
+        "coddle",
+        "t"
+      ],
+      [
+        "doddle",
+        "t"
+      ],
+      [
+        "noddle",
+        "t"
+      ]
+    ],
+    "hookup": [
+      [
+        "lookup",
+        "h"
+      ]
+    ],
+    "cotman": [
+      [
+        "potman",
+        "c"
+      ]
+    ],
+    "seater": [
+      [
+        "beater",
+        "s"
+      ],
+      [
+        "heater",
+        "s"
+      ],
+      [
+        "neater",
+        "s"
+      ]
+    ],
+    "wright": [
+      [
+        "aright",
+        "w"
+      ],
+      [
+        "bright",
+        "w"
+      ],
+      [
+        "fright",
+        "w"
+      ]
+    ],
+    "menial": [
+      [
+        "denial",
+        "m"
+      ],
+      [
+        "genial",
+        "m"
+      ],
+      [
+        "venial",
+        "m"
+      ]
+    ],
+    "robbin": [
+      [
+        "bobbin",
+        "r"
+      ],
+      [
+        "dobbin",
+        "r"
+      ]
+    ],
+    "bellow": [
+      [
+        "fellow",
+        "b"
+      ],
+      [
+        "mellow",
+        "b"
+      ],
+      [
+        "yellow",
+        "b"
+      ]
+    ],
+    "puffin": [
+      [
+        "muffin",
+        "p"
+      ]
+    ],
+    "bought": [
+      [
+        "fought",
+        "b"
+      ],
+      [
+        "nought",
+        "b"
+      ],
+      [
+        "sought",
+        "b"
+      ]
+    ],
+    "seeing": [
+      [
+        "geeing",
+        "s"
+      ],
+      [
+        "peeing",
+        "s"
+      ],
+      [
+        "teeing",
+        "s"
+      ],
+      [
+        "weeing",
+        "s"
+      ]
+    ],
+    "reason": [
+      [
+        "season",
+        "r"
+      ]
+    ],
+    "flunky": [
+      [
+        "clunky",
+        "f"
+      ]
+    ],
+    "denial": [
+      [
+        "genial",
+        "d"
+      ],
+      [
+        "menial",
+        "d"
+      ],
+      [
+        "venial",
+        "d"
+      ]
+    ],
+    "funnel": [
+      [
+        "gunnel",
+        "f"
+      ],
+      [
+        "runnel",
+        "f"
+      ],
+      [
+        "tunnel",
+        "f"
+      ]
+    ],
+    "cruise": [
+      [
+        "bruise",
+        "c"
+      ]
+    ],
+    "bangle": [
+      [
+        "dangle",
+        "b"
+      ],
+      [
+        "jangle",
+        "b"
+      ],
+      [
+        "mangle",
+        "b"
+      ],
+      [
+        "tangle",
+        "b"
+      ],
+      [
+        "wangle",
+        "b"
+      ]
+    ],
+    "fodder": [
+      [
+        "dodder",
+        "f"
+      ]
+    ],
+    "carrel": [
+      [
+        "barrel",
+        "c"
+      ]
+    ],
+    "shrive": [
+      [
+        "thrive",
+        "s"
+      ]
+    ],
+    "twinge": [
+      [
+        "swinge",
+        "t"
+      ]
+    ],
+    "purvey": [
+      [
+        "survey",
+        "p"
+      ]
+    ],
+    "effect": [
+      [
+        "affect",
+        "e"
+      ]
+    ],
+    "candle": [
+      [
+        "dandle",
+        "c"
+      ],
+      [
+        "handle",
+        "c"
+      ]
+    ],
+    "flashy": [
+      [
+        "plashy",
+        "f"
+      ]
+    ],
+    "dental": [
+      [
+        "cental",
+        "d"
+      ],
+      [
+        "mental",
+        "d"
+      ],
+      [
+        "rental",
+        "d"
+      ]
+    ],
+    "ablate": [
+      [
+        "oblate",
+        "a"
+      ]
+    ],
+    "trusty": [
+      [
+        "crusty",
+        "t"
+      ]
+    ],
+    "vanity": [
+      [
+        "sanity",
+        "v"
+      ]
+    ],
+    "brassy": [
+      [
+        "grassy",
+        "b"
+      ]
+    ],
+    "bandit": [
+      [
+        "pandit",
+        "b"
+      ]
+    ],
+    "notary": [
+      [
+        "rotary",
+        "n"
+      ],
+      [
+        "votary",
+        "n"
+      ]
+    ],
+    "vector": [
+      [
+        "hector",
+        "v"
+      ],
+      [
+        "lector",
+        "v"
+      ],
+      [
+        "rector",
+        "v"
+      ],
+      [
+        "sector",
+        "v"
+      ]
+    ],
+    "tensor": [
+      [
+        "censor",
+        "t"
+      ],
+      [
+        "sensor",
+        "t"
+      ]
+    ],
+    "pledge": [
+      [
+        "fledge",
+        "p"
+      ],
+      [
+        "sledge",
+        "p"
+      ]
+    ],
+    "granny": [
+      [
+        "branny",
+        "g"
+      ],
+      [
+        "cranny",
+        "g"
+      ]
+    ],
+    "pigeon": [
+      [
+        "wigeon",
+        "p"
+      ]
+    ],
+    "tumble": [
+      [
+        "bumble",
+        "t"
+      ],
+      [
+        "fumble",
+        "t"
+      ],
+      [
+        "humble",
+        "t"
+      ],
+      [
+        "jumble",
+        "t"
+      ],
+      [
+        "mumble",
+        "t"
+      ],
+      [
+        "rumble",
+        "t"
+      ]
+    ],
+    "floppy": [
+      [
+        "gloppy",
+        "f"
+      ],
+      [
+        "sloppy",
+        "f"
+      ]
+    ],
+    "dither": [
+      [
+        "cither",
+        "d"
+      ],
+      [
+        "either",
+        "d"
+      ],
+      [
+        "hither",
+        "d"
+      ],
+      [
+        "lither",
+        "d"
+      ],
+      [
+        "mither",
+        "d"
+      ],
+      [
+        "tither",
+        "d"
+      ],
+      [
+        "wither",
+        "d"
+      ],
+      [
+        "zither",
+        "d"
+      ]
+    ],
+    "jangle": [
+      [
+        "bangle",
+        "j"
+      ],
+      [
+        "dangle",
+        "j"
+      ],
+      [
+        "mangle",
+        "j"
+      ],
+      [
+        "tangle",
+        "j"
+      ],
+      [
+        "wangle",
+        "j"
+      ]
+    ],
+    "tattle": [
+      [
+        "battle",
+        "t"
+      ],
+      [
+        "cattle",
+        "t"
+      ],
+      [
+        "rattle",
+        "t"
+      ],
+      [
+        "wattle",
+        "t"
+      ]
+    ],
+    "futile": [
+      [
+        "rutile",
+        "f"
+      ]
+    ],
+    "bakery": [
+      [
+        "fakery",
+        "b"
+      ]
+    ],
+    "horrid": [
+      [
+        "torrid",
+        "h"
+      ]
+    ],
+    "cringe": [
+      [
+        "fringe",
+        "c"
+      ]
+    ],
+    "tawdry": [
+      [
+        "bawdry",
+        "t"
+      ]
+    ],
+    "marrow": [
+      [
+        "barrow",
+        "m"
+      ],
+      [
+        "farrow",
+        "m"
+      ],
+      [
+        "harrow",
+        "m"
+      ],
+      [
+        "narrow",
+        "m"
+      ],
+      [
+        "yarrow",
+        "m"
+      ]
+    ],
+    "sodden": [
+      [
+        "hodden",
+        "s"
+      ]
+    ],
+    "taught": [
+      [
+        "caught",
+        "t"
+      ],
+      [
+        "naught",
+        "t"
+      ]
+    ],
+    "tavern": [
+      [
+        "cavern",
+        "t"
+      ]
+    ],
+    "course": [
+      [
+        "bourse",
+        "c"
+      ]
+    ],
+    "minnow": [
+      [
+        "winnow",
+        "m"
+      ]
+    ],
+    "motive": [
+      [
+        "votive",
+        "m"
+      ]
+    ],
+    "fridge": [
+      [
+        "bridge",
+        "f"
+      ]
+    ],
+    "packet": [
+      [
+        "jacket",
+        "p"
+      ],
+      [
+        "racket",
+        "p"
+      ],
+      [
+        "tacket",
+        "p"
+      ]
+    ],
+    "gibbon": [
+      [
+        "ribbon",
+        "g"
+      ]
+    ],
+    "random": [
+      [
+        "fandom",
+        "r"
+      ]
+    ],
+    "toffee": [
+      [
+        "coffee",
+        "t"
+      ]
+    ],
+    "sadden": [
+      [
+        "madden",
+        "s"
+      ]
+    ],
+    "curdle": [
+      [
+        "hurdle",
+        "c"
+      ]
+    ],
+    "breath": [
+      [
+        "wreath",
+        "b"
+      ]
+    ],
+    "marina": [
+      [
+        "carina",
+        "m"
+      ],
+      [
+        "farina",
+        "m"
+      ]
+    ],
+    "lookup": [
+      [
+        "hookup",
+        "l"
+      ]
+    ],
+    "mallow": [
+      [
+        "callow",
+        "m"
+      ],
+      [
+        "fallow",
+        "m"
+      ],
+      [
+        "hallow",
+        "m"
+      ],
+      [
+        "sallow",
+        "m"
+      ],
+      [
+        "tallow",
+        "m"
+      ],
+      [
+        "wallow",
+        "m"
+      ]
+    ],
+    "muffin": [
+      [
+        "puffin",
+        "m"
+      ]
+    ],
+    "ballet": [
+      [
+        "mallet",
+        "b"
+      ],
+      [
+        "pallet",
+        "b"
+      ],
+      [
+        "sallet",
+        "b"
+      ],
+      [
+        "wallet",
+        "b"
+      ]
+    ],
+    "pulley": [
+      [
+        "mulley",
+        "p"
+      ]
+    ],
+    "pantry": [
+      [
+        "gantry",
+        "p"
+      ]
+    ],
+    "bowmen": [
+      [
+        "cowmen",
+        "b"
+      ]
+    ],
+    "empire": [
+      [
+        "umpire",
+        "e"
+      ]
+    ],
+    "sarong": [
+      [
+        "barong",
+        "s"
+      ]
+    ],
+    "drafty": [
+      [
+        "crafty",
+        "d"
+      ]
+    ],
+    "mortal": [
+      [
+        "aortal",
+        "m"
+      ],
+      [
+        "portal",
+        "m"
+      ]
+    ],
+    "rustic": [
+      [
+        "fustic",
+        "r"
+      ]
+    ],
+    "rattle": [
+      [
+        "battle",
+        "r"
+      ],
+      [
+        "cattle",
+        "r"
+      ],
+      [
+        "tattle",
+        "r"
+      ],
+      [
+        "wattle",
+        "r"
+      ]
+    ],
+    "tipoff": [
+      [
+        "ripoff",
+        "t"
+      ]
+    ],
+    "moment": [
+      [
+        "foment",
+        "m"
+      ],
+      [
+        "loment",
+        "m"
+      ]
+    ],
+    "mitral": [
+      [
+        "citral",
+        "m"
+      ]
+    ],
+    "votive": [
+      [
+        "motive",
+        "v"
+      ]
+    ],
+    "simmer": [
+      [
+        "dimmer",
+        "s"
+      ]
+    ],
+    "nether": [
+      [
+        "aether",
+        "n"
+      ],
+      [
+        "tether",
+        "n"
+      ],
+      [
+        "wether",
+        "n"
+      ]
+    ],
+    "waffle": [
+      [
+        "baffle",
+        "w"
+      ],
+      [
+        "raffle",
+        "w"
+      ]
+    ],
+    "banana": [
+      [
+        "manana",
+        "b"
+      ]
+    ],
+    "energy": [
+      [
+        "anergy",
+        "e"
+      ]
+    ],
+    "simple": [
+      [
+        "dimple",
+        "s"
+      ],
+      [
+        "pimple",
+        "s"
+      ],
+      [
+        "rimple",
+        "s"
+      ],
+      [
+        "wimple",
+        "s"
+      ]
+    ],
+    "teethe": [
+      [
+        "seethe",
+        "t"
+      ]
+    ],
+    "formal": [
+      [
+        "normal",
+        "f"
+      ]
+    ],
+    "dibble": [
+      [
+        "kibble",
+        "d"
+      ],
+      [
+        "nibble",
+        "d"
+      ]
+    ],
+    "waddle": [
+      [
+        "paddle",
+        "w"
+      ],
+      [
+        "raddle",
+        "w"
+      ],
+      [
+        "saddle",
+        "w"
+      ]
+    ],
+    "mumble": [
+      [
+        "bumble",
+        "m"
+      ],
+      [
+        "fumble",
+        "m"
+      ],
+      [
+        "humble",
+        "m"
+      ],
+      [
+        "jumble",
+        "m"
+      ],
+      [
+        "rumble",
+        "m"
+      ],
+      [
+        "tumble",
+        "m"
+      ]
+    ],
+    "racket": [
+      [
+        "jacket",
+        "r"
+      ],
+      [
+        "packet",
+        "r"
+      ],
+      [
+        "tacket",
+        "r"
+      ]
+    ],
+    "alight": [
+      [
+        "blight",
+        "a"
+      ],
+      [
+        "flight",
+        "a"
+      ],
+      [
+        "plight",
+        "a"
+      ],
+      [
+        "slight",
+        "a"
+      ]
+    ],
+    "devise": [
+      [
+        "revise",
+        "d"
+      ]
+    ],
+    "shrill": [
+      [
+        "thrill",
+        "s"
+      ]
+    ],
+    "gravel": [
+      [
+        "travel",
+        "g"
+      ]
+    ],
+    "health": [
+      [
+        "wealth",
+        "h"
+      ]
+    ],
+    "kaiser": [
+      [
+        "raiser",
+        "k"
+      ]
+    ],
+    "sodium": [
+      [
+        "podium",
+        "s"
+      ]
+    ],
+    "kitten": [
+      [
+        "bitten",
+        "k"
+      ],
+      [
+        "mitten",
+        "k"
+      ]
+    ],
+    "settle": [
+      [
+        "fettle",
+        "s"
+      ],
+      [
+        "kettle",
+        "s"
+      ],
+      [
+        "mettle",
+        "s"
+      ],
+      [
+        "nettle",
+        "s"
+      ]
+    ],
+    "bowman": [
+      [
+        "cowman",
+        "b"
+      ]
+    ],
+    "mitten": [
+      [
+        "bitten",
+        "m"
+      ],
+      [
+        "kitten",
+        "m"
+      ]
+    ],
+    "grouse": [
+      [
+        "arouse",
+        "g"
+      ],
+      [
+        "crouse",
+        "g"
+      ]
+    ],
+    "falter": [
+      [
+        "halter",
+        "f"
+      ],
+      [
+        "palter",
+        "f"
+      ],
+      [
+        "salter",
+        "f"
+      ]
+    ],
+    "poison": [
+      [
+        "foison",
+        "p"
+      ]
+    ],
+    "morrow": [
+      [
+        "borrow",
+        "m"
+      ],
+      [
+        "sorrow",
+        "m"
+      ]
+    ],
+    "poetic": [
+      [
+        "noetic",
+        "p"
+      ]
+    ],
+    "rather": [
+      [
+        "bather",
+        "r"
+      ],
+      [
+        "father",
+        "r"
+      ],
+      [
+        "gather",
+        "r"
+      ],
+      [
+        "lather",
+        "r"
+      ]
+    ],
+    "canker": [
+      [
+        "banker",
+        "c"
+      ],
+      [
+        "danker",
+        "c"
+      ],
+      [
+        "hanker",
+        "c"
+      ],
+      [
+        "lanker",
+        "c"
+      ],
+      [
+        "ranker",
+        "c"
+      ],
+      [
+        "tanker",
+        "c"
+      ],
+      [
+        "wanker",
+        "c"
+      ]
+    ],
+    "leaven": [
+      [
+        "heaven",
+        "l"
+      ]
+    ],
+    "mingle": [
+      [
+        "bingle",
+        "m"
+      ],
+      [
+        "dingle",
+        "m"
+      ],
+      [
+        "jingle",
+        "m"
+      ],
+      [
+        "single",
+        "m"
+      ],
+      [
+        "tingle",
+        "m"
+      ]
+    ],
+    "patent": [
+      [
+        "latent",
+        "p"
+      ]
+    ],
+    "detail": [
+      [
+        "retail",
+        "d"
+      ]
+    ],
+    "trance": [
+      [
+        "prance",
+        "t"
+      ]
+    ],
+    "cobble": [
+      [
+        "bobble",
+        "c"
+      ],
+      [
+        "gobble",
+        "c"
+      ],
+      [
+        "hobble",
+        "c"
+      ],
+      [
+        "nobble",
+        "c"
+      ],
+      [
+        "wobble",
+        "c"
+      ]
+    ],
+    "hallow": [
+      [
+        "callow",
+        "h"
+      ],
+      [
+        "fallow",
+        "h"
+      ],
+      [
+        "mallow",
+        "h"
+      ],
+      [
+        "sallow",
+        "h"
+      ],
+      [
+        "tallow",
+        "h"
+      ],
+      [
+        "wallow",
+        "h"
+      ]
+    ],
+    "monies": [
+      [
+        "conies",
+        "m"
+      ],
+      [
+        "ponies",
+        "m"
+      ]
+    ],
+    "fizzle": [
+      [
+        "mizzle",
+        "f"
+      ],
+      [
+        "sizzle",
+        "f"
+      ]
+    ],
+    "sought": [
+      [
+        "bought",
+        "s"
+      ],
+      [
+        "fought",
+        "s"
+      ],
+      [
+        "nought",
+        "s"
+      ]
+    ],
+    "gallop": [
+      [
+        "wallop",
+        "g"
+      ]
+    ],
+    "narrow": [
+      [
+        "barrow",
+        "n"
+      ],
+      [
+        "farrow",
+        "n"
+      ],
+      [
+        "harrow",
+        "n"
+      ],
+      [
+        "marrow",
+        "n"
+      ],
+      [
+        "yarrow",
+        "n"
+      ]
+    ],
+    "garble": [
+      [
+        "marble",
+        "g"
+      ],
+      [
+        "warble",
+        "g"
+      ]
+    ],
+    "citric": [
+      [
+        "nitric",
+        "c"
+      ],
+      [
+        "vitric",
+        "c"
+      ]
+    ],
+    "slough": [
+      [
+        "clough",
+        "s"
+      ]
+    ],
+    "cowman": [
+      [
+        "bowman",
+        "c"
+      ]
+    ],
+    "gusset": [
+      [
+        "russet",
+        "g"
+      ]
+    ],
+    "ferret": [
+      [
+        "terret",
+        "f"
+      ]
+    ],
+    "future": [
+      [
+        "suture",
+        "f"
+      ]
+    ],
+    "enfant": [
+      [
+        "infant",
+        "e"
+      ]
+    ],
+    "forest": [
+      [
+        "sorest",
+        "f"
+      ]
+    ],
+    "golden": [
+      [
+        "holden",
+        "g"
+      ]
+    ],
+    "little": [
+      [
+        "kittle",
+        "l"
+      ],
+      [
+        "tittle",
+        "l"
+      ],
+      [
+        "vittle",
+        "l"
+      ]
+    ],
+    "fierce": [
+      [
+        "pierce",
+        "f"
+      ],
+      [
+        "tierce",
+        "f"
+      ]
+    ],
+    "niggle": [
+      [
+        "giggle",
+        "n"
+      ],
+      [
+        "higgle",
+        "n"
+      ],
+      [
+        "jiggle",
+        "n"
+      ],
+      [
+        "wiggle",
+        "n"
+      ]
+    ],
+    "plunge": [
+      [
+        "blunge",
+        "p"
+      ]
+    ],
+    "permit": [
+      [
+        "hermit",
+        "p"
+      ]
+    ],
+    "sorrel": [
+      [
+        "correl",
+        "s"
+      ]
+    ],
+    "tinker": [
+      [
+        "dinker",
+        "t"
+      ],
+      [
+        "linker",
+        "t"
+      ],
+      [
+        "pinker",
+        "t"
+      ],
+      [
+        "sinker",
+        "t"
+      ],
+      [
+        "winker",
+        "t"
+      ]
+    ],
+    "parcel": [
+      [
+        "marcel",
+        "p"
+      ]
+    ],
+    "cantle": [
+      [
+        "mantle",
+        "c"
+      ]
+    ],
+    "pathos": [
+      [
+        "bathos",
+        "p"
+      ]
+    ],
+    "hansom": [
+      [
+        "ransom",
+        "h"
+      ]
+    ],
+    "prison": [
+      [
+        "grison",
+        "p"
+      ],
+      [
+        "orison",
+        "p"
+      ]
+    ],
+    "valent": [
+      [
+        "talent",
+        "v"
+      ]
+    ],
+    "bustle": [
+      [
+        "hustle",
+        "b"
+      ],
+      [
+        "justle",
+        "b"
+      ],
+      [
+        "rustle",
+        "b"
+      ]
+    ],
+    "trench": [
+      [
+        "drench",
+        "t"
+      ],
+      [
+        "french",
+        "t"
+      ],
+      [
+        "wrench",
+        "t"
+      ]
+    ],
+    "reckon": [
+      [
+        "beckon",
+        "r"
+      ]
+    ],
+    "sandal": [
+      [
+        "vandal",
+        "s"
+      ]
+    ],
+    "hackle": [
+      [
+        "cackle",
+        "h"
+      ],
+      [
+        "mackle",
+        "h"
+      ],
+      [
+        "tackle",
+        "h"
+      ]
+    ],
+    "lockup": [
+      [
+        "cockup",
+        "l"
+      ]
+    ],
+    "dickey": [
+      [
+        "hickey",
+        "d"
+      ],
+      [
+        "mickey",
+        "d"
+      ],
+      [
+        "rickey",
+        "d"
+      ]
+    ],
+    "madden": [
+      [
+        "sadden",
+        "m"
+      ]
+    ],
+    "ponder": [
+      [
+        "fonder",
+        "p"
+      ],
+      [
+        "wonder",
+        "p"
+      ],
+      [
+        "yonder",
+        "p"
+      ]
+    ],
+    "butler": [
+      [
+        "cutler",
+        "b"
+      ],
+      [
+        "sutler",
+        "b"
+      ]
+    ],
+    "suckle": [
+      [
+        "buckle",
+        "s"
+      ]
+    ],
+    "facial": [
+      [
+        "racial",
+        "f"
+      ]
+    ],
+    "nitric": [
+      [
+        "citric",
+        "n"
+      ],
+      [
+        "vitric",
+        "n"
+      ]
+    ],
+    "casket": [
+      [
+        "basket",
+        "c"
+      ],
+      [
+        "gasket",
+        "c"
+      ]
+    ],
+    "barrow": [
+      [
+        "farrow",
+        "b"
+      ],
+      [
+        "harrow",
+        "b"
+      ],
+      [
+        "marrow",
+        "b"
+      ],
+      [
+        "narrow",
+        "b"
+      ],
+      [
+        "yarrow",
+        "b"
+      ]
+    ]
+  },
+  {
+    "flagrant": [
+      [
+        "fragrant",
+        "l"
+      ]
+    ],
+    "brandish": [
+      [
+        "blandish",
+        "r"
+      ]
+    ],
+    "showdown": [
+      [
+        "slowdown",
+        "h"
+      ]
+    ],
+    "straddle": [
+      [
+        "spraddle",
+        "t"
+      ]
+    ],
+    "abrogate": [
+      [
+        "arrogate",
+        "b"
+      ]
+    ],
+    "elliptic": [
+      [
+        "ecliptic",
+        "l"
+      ]
+    ],
+    "autistic": [
+      [
+        "artistic",
+        "u"
+      ]
+    ],
+    "voracity": [
+      [
+        "veracity",
+        "o"
+      ]
+    ],
+    "ecstatic": [
+      [
+        "eustatic",
+        "c"
+      ]
+    ],
+    "hangover": [
+      [
+        "hungover",
+        "a"
+      ]
+    ],
+    "attitude": [
+      [
+        "altitude",
+        "t"
+      ],
+      [
+        "aptitude",
+        "t"
+      ]
+    ],
+    "addition": [
+      [
+        "audition",
+        "d"
+      ]
+    ],
+    "possible": [
+      [
+        "passible",
+        "o"
+      ]
+    ],
+    "typology": [
+      [
+        "topology",
+        "y"
+      ]
+    ],
+    "assonant": [
+      [
+        "absonant",
+        "s"
+      ]
+    ],
+    "pheasant": [
+      [
+        "pleasant",
+        "h"
+      ]
+    ],
+    "copulate": [
+      [
+        "cupulate",
+        "o"
+      ]
+    ],
+    "duration": [
+      [
+        "deration",
+        "u"
+      ]
+    ],
+    "stallion": [
+      [
+        "scallion",
+        "t"
+      ]
+    ],
+    "topology": [
+      [
+        "typology",
+        "o"
+      ]
+    ],
+    "aborning": [
+      [
+        "adorning",
+        "b"
+      ]
+    ],
+    "altitude": [
+      [
+        "aptitude",
+        "l"
+      ],
+      [
+        "attitude",
+        "l"
+      ]
+    ],
+    "tabulate": [
+      [
+        "tubulate",
+        "a"
+      ]
+    ],
+    "agrimony": [
+      [
+        "acrimony",
+        "g"
+      ]
+    ],
+    "shagging": [
+      [
+        "slagging",
+        "h"
+      ],
+      [
+        "snagging",
+        "h"
+      ],
+      [
+        "swagging",
+        "h"
+      ]
+    ],
+    "starling": [
+      [
+        "snarling",
+        "t"
+      ],
+      [
+        "sparling",
+        "t"
+      ]
+    ],
+    "brackish": [
+      [
+        "blackish",
+        "r"
+      ]
+    ],
+    "snobbery": [
+      [
+        "slobbery",
+        "n"
+      ]
+    ],
+    "shoulder": [
+      [
+        "smoulder",
+        "h"
+      ]
+    ],
+    "madstone": [
+      [
+        "mudstone",
+        "a"
+      ]
+    ],
+    "farthest": [
+      [
+        "furthest",
+        "a"
+      ]
+    ],
+    "bragging": [
+      [
+        "blagging",
+        "r"
+      ]
+    ],
+    "colorate": [
+      [
+        "chlorate",
+        "o"
+      ]
+    ],
+    "dumpling": [
+      [
+        "dimpling",
+        "u"
+      ]
+    ],
+    "vortices": [
+      [
+        "vertices",
+        "o"
+      ]
+    ],
+    "munition": [
+      [
+        "monition",
+        "u"
+      ]
+    ],
+    "abusable": [
+      [
+        "amusable",
+        "b"
+      ]
+    ],
+    "bondsman": [
+      [
+        "bandsman",
+        "o"
+      ]
+    ],
+    "dumpster": [
+      [
+        "dempster",
+        "u"
+      ]
+    ],
+    "spalding": [
+      [
+        "scalding",
+        "p"
+      ]
+    ],
+    "vertical": [
+      [
+        "vortical",
+        "e"
+      ]
+    ],
+    "ectoderm": [
+      [
+        "entoderm",
+        "c"
+      ]
+    ],
+    "aptitude": [
+      [
+        "altitude",
+        "p"
+      ],
+      [
+        "attitude",
+        "p"
+      ]
+    ],
+    "esoteric": [
+      [
+        "exoteric",
+        "s"
+      ]
+    ],
+    "furthest": [
+      [
+        "farthest",
+        "u"
+      ]
+    ],
+    "oncology": [
+      [
+        "oecology",
+        "n"
+      ]
+    ],
+    "bullhead": [
+      [
+        "billhead",
+        "u"
+      ]
+    ],
+    "additive": [
+      [
+        "auditive",
+        "d"
+      ]
+    ],
+    "slowdown": [
+      [
+        "showdown",
+        "l"
+      ]
+    ],
+    "sparling": [
+      [
+        "snarling",
+        "p"
+      ],
+      [
+        "starling",
+        "p"
+      ]
+    ],
+    "scraggly": [
+      [
+        "straggly",
+        "c"
+      ]
+    ],
+    "slogging": [
+      [
+        "snogging",
+        "l"
+      ]
+    ],
+    "audition": [
+      [
+        "addition",
+        "u"
+      ]
+    ],
+    "flogging": [
+      [
+        "frogging",
+        "l"
+      ]
+    ],
+    "nugatory": [
+      [
+        "negatory",
+        "u"
+      ]
+    ],
+    "blandish": [
+      [
+        "brandish",
+        "l"
+      ]
+    ],
+    "thickish": [
+      [
+        "trickish",
+        "h"
+      ]
+    ],
+    "scathing": [
+      [
+        "swathing",
+        "c"
+      ]
+    ],
+    "ecliptic": [
+      [
+        "elliptic",
+        "c"
+      ]
+    ],
+    "eligible": [
+      [
+        "exigible",
+        "l"
+      ]
+    ],
+    "fireside": [
+      [
+        "foreside",
+        "i"
+      ]
+    ],
+    "bondsmen": [
+      [
+        "bandsmen",
+        "o"
+      ]
+    ],
+    "fragrant": [
+      [
+        "flagrant",
+        "r"
+      ]
+    ],
+    "auditory": [
+      [
+        "additory",
+        "u"
+      ]
+    ],
+    "acrimony": [
+      [
+        "agrimony",
+        "c"
+      ]
+    ],
+    "libation": [
+      [
+        "lobation",
+        "i"
+      ]
+    ],
+    "fullback": [
+      [
+        "fallback",
+        "u"
+      ]
+    ],
+    "snagging": [
+      [
+        "shagging",
+        "n"
+      ],
+      [
+        "slagging",
+        "n"
+      ],
+      [
+        "swagging",
+        "n"
+      ]
+    ],
+    "pleasant": [
+      [
+        "pheasant",
+        "l"
+      ]
+    ],
+    "emulsion": [
+      [
+        "evulsion",
+        "m"
+      ]
+    ],
+    "arrogate": [
+      [
+        "abrogate",
+        "r"
+      ]
+    ],
+    "veracity": [
+      [
+        "voracity",
+        "e"
+      ]
+    ],
+    "coeditor": [
+      [
+        "creditor",
+        "o"
+      ]
+    ],
+    "odometer": [
+      [
+        "orometer",
+        "d"
+      ]
+    ],
+    "luminous": [
+      [
+        "laminous",
+        "u"
+      ]
+    ],
+    "pastiche": [
+      [
+        "postiche",
+        "a"
+      ]
+    ],
+    "slugging": [
+      [
+        "snugging",
+        "l"
+      ]
+    ]
+  },
+  {
+    "inductee": [
+      [
+        "induct",
+        "e"
+      ]
+    ],
+    "excelled": [
+      [
+        "exceed",
+        "l"
+      ]
+    ],
+    "corvette": [
+      [
+        "corvee",
+        "t"
+      ]
+    ],
+    "sandhill": [
+      [
+        "sandhi",
+        "l"
+      ]
+    ],
+    "indigene": [
+      [
+        "indign",
+        "e"
+      ]
+    ],
+    "charisma": [
+      [
+        "chrism",
+        "a"
+      ]
+    ],
+    "crescent": [
+      [
+        "resent",
+        "c"
+      ]
+    ],
+    "sightsee": [
+      [
+        "sights",
+        "e"
+      ]
+    ],
+    "princess": [
+      [
+        "prince",
+        "s"
+      ]
+    ],
+    "commerce": [
+      [
+        "coerce",
+        "m"
+      ]
+    ],
+    "virtuoso": [
+      [
+        "virtus",
+        "o"
+      ]
+    ],
+    "assignee": [
+      [
+        "assign",
+        "e"
+      ]
+    ],
+    "marquess": [
+      [
+        "marque",
+        "s"
+      ]
+    ],
+    "bursitis": [
+      [
+        "bursts",
+        "i"
+      ]
+    ],
+    "passport": [
+      [
+        "assort",
+        "p"
+      ]
+    ]
+  }
+]

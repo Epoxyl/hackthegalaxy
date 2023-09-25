@@ -1,0 +1,16 @@
+{
+    "description": "santas reindeer",
+    "source": "https://en.wikipedia.org/wiki/Astrological_sign",
+    "santas_reindeers": [
+        "Dasher",
+        "Dancer",
+        "Prancer",
+        "Vixen",
+        "Comet",
+        "Cupid",
+        "Donner",
+        "Blitzen",
+        "Rudolph",
+        "Olive"
+    ]
+}

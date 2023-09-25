@@ -1,0 +1,30 @@
+{
+    "description": "Zodiac signs and associated information, both Western and Eastern.",
+    "source": "https://en.wikipedia.org/wiki/Astrological_sign",
+    "astrological_signs": [
+        "Aries",
+        "Taurus",
+        "Gemini",
+        "Cancer",
+        "Leo",
+        "Virgo",
+        "Libra",
+        "Scorpio",
+        "Sagittarius",
+        "Capricorn",
+        "Aquarius",
+        "Pisces",
+        "Rat",
+        "Ox",
+        "Tiger",
+        "Rabbit",
+        "Dragon",
+        "Snake",
+        "Horse",
+        "Goat",
+        "Monkey",
+        "Rooster",
+        "Dog",
+        "Pig"
+    ]
+}

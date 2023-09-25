@@ -1,0 +1,6 @@
+forehead
+mandible
+shoulder
+pancreas
+appendix
+shinbone
